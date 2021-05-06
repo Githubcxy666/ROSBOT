@@ -2,6 +2,10 @@
 
 本仓库建立目的是为了给同学们在ROS机器人开发中提供帮助。
 
+国外仓库链接Github：https://github.com/Githubcxy666/ROSBOT
+
+国内仓库链接Gitee：https://gitee.com/wybros/ROSBOT
+
 仓库部分资料来源互联网，如有侵权，请联系邮箱 344214187@qq.com，必定在72小时内处理。
 
 如果同学们有新资源提供分享，也请联系邮箱 344214187@qq.com。
@@ -14,27 +18,27 @@
 
 ### 虚拟机
 
-#### Kinect版本安装教程
+#### 	Kinect版本安装教程（ros init失败解决办法请看melodic版本安装）
 
-#### melodic版本安装教程
+#### 	melodic版本安装教程（附带ros init失败解决办法）
 
-#### notice版本安装
+#### 	[notice版本安装教程（附带ros init失败解决办法）](http://www.autolabor.com.cn/book/ROSTutorials/chapter1/12-roskai-fa-gong-ju-an-zhuang/124-an-zhuang-ros.html)
 
 ### 树莓派
 
-#### Kinect版本安装教程
+#### 	Kinect版本安装教程
 
-#### melodic版本安装教程
+#### 	melodic版本安装教程
 
-#### notice版本安装
+#### 	notice版本安装
 
 ### jetson nano
 
-#### Kinect版本安装教程
+#### 	Kinect版本安装教程
 
-#### melodic版本安装教程
+#### 	melodic版本安装教程
 
-#### notice版本安装
+#### 	notice版本安装
 
 
 
@@ -42,21 +46,27 @@
 
 ### cartography安装教程
 
+
+
 ### ROS serial安装教程
 
-#### Kinect版本安装教程
+#### 	Kinect版本安装教程
 
-sudo apt-get install ros-kinetic-serial
+​		sudo apt-get install ros-kinetic-serial
 
-#### melodic版本安装教程
+#### 	melodic版本安装教程
 
-sudo apt-get install ros-melodic-serial
+​		sudo apt-get install ros-melodic-serial
 
-#### notice版本安装
+#### 	notice版本安装
 
-sudo apt-get install ros-notice-serial
+​		sudo apt-get install ros-notice-serial
+
+
 
 ### vscode安装
+
+
 
 ### 串口调试软件安装
 
@@ -66,81 +76,85 @@ https://blog.csdn.net/fb_941219/article/details/84481689
 
 #### minicom
 
+
+
 ### ROS gazebo仿真模型
+
+
 
 ### navigation安装
 
-#### Kinect版本安装教程
+#### 	Kinect版本安装教程
 
-git clone -b kinetic-devel https://github.com/ros-planning/navigation.git
+​		git clone -b kinetic-devel https://github.com/ros-planning/navigation.git
 
-#### melodic版本安装教程
+#### 	melodic版本安装教程
 
-git clone -b melodic-devel https://github.com/ros-planning/navigation.git
+​		git clone -b melodic-devel https://github.com/ros-planning/navigation.git
 
-#### notice版本安装
+#### 	notice版本安装
 
-git clone -b noetic-devel https://github.com/ros-planning/navigation.git
+​		git clone -b noetic-devel https://github.com/ros-planning/navigation.git
 
 
 
 ### robot_pose_ekf 安装教程
 
-git clone https://github.com/ros-planning/robot_pose_ekf.git
+​	git clone https://github.com/ros-planning/robot_pose_ekf.git
 
 
 
 ### 雷达驱动包
 
-#### RPLIDAR
+#### 	RPLIDAR
 
-https://github.com/Slamtec/rplidar_ros
+​		https://github.com/Slamtec/rplidar_ros
 
-git clone https://github.com/Slamtec/rplidar_ros.git
+​		git clone https://github.com/Slamtec/rplidar_ros.git
 
-RPLidar A1示意图
+​		RPLidar A1示意图
 
 ![请输入图片描述](https://gitee.com/wybros/Image/raw/master/img/rplidar_A1.png)
 
 
 
-RPLidar A2示意图
+​		RPLidar A2示意图
 
 ![请输入图片描述](https://gitee.com/wybros/Image/raw/master/img/rplidar_A2.png)
 
-## ROS问题
+## [ROS问题总汇](problems.md)
 
-https://www.jianshu.com/p/b52d3a71cbf3
+
 
 ## ROS教程
 
 以下排名不分先后
 
-### ROS WIKI 
+### 	ROS WIKI 
 
-网站链接 http://wiki.ros.org/cn/ROS/Tutorials
+​		网站链接 http://wiki.ros.org/cn/ROS/Tutorials
 
-### 古月居
+### 	古月居
 
-#### ROS入门21讲
+#### 		ROS入门21讲
 
-视频教程 https://www.bilibili.com/video/BV1zt411G7Vn
+​			视频教程 https://www.bilibili.com/video/BV1zt411G7Vn
 
-#### ROS机器人开发案例
+#### 		ROS机器人开发案例
 
-视频教程 https://www.bilibili.com/video/BV1vb41177qN
+​			视频教程 https://www.bilibili.com/video/BV1vb41177qN
 
-#### ROS机械臂开发原理
+#### 		ROS机械臂开发原理
 
-视频教程 https://www.bilibili.com/video/BV14b411p7Hm
+​			视频教程 https://www.bilibili.com/video/BV14b411p7Hm
 
-### 中国大学MOOC --《机器人操作系统入门》
+### 	中国大学MOOC --《机器人操作系统入门》
 
-视频教程 https://www.bilibili.com/video/BV1PJ411D7mj?from=search&seid=367619698396859163
+​		视频教程 https://www.bilibili.com/video/BV1PJ411D7mj?from=search&seid=367619698396859163
 
-课程讲义---Gitbook：https://sychaichangkun.gitbooks.io/ros-tutorial-icourse163/content/ 
+​		课程讲义---Gitbook：https://sychaichangkun.gitbooks.io/ros-tutorial-icourse163/content/ 
 
-代码示例---Github：https://github.com/DroidAITech/ROS-Academy-for-Beginners （注意版本）
+​		代码示例---Github：https://github.com/DroidAITech/ROS-Academy-for-Beginners （注意版本）
 
 ### 奥特学园 -- ROS机器人入门课程《ROS理论与实践》零基础教程
 
@@ -180,7 +194,7 @@ https://www.jianshu.com/p/b52d3a71cbf3
 
 
 
-## [ROS开发书籍](books.md)
+## [ROS书籍推荐](books.md)
 
 
 
