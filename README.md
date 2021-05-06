@@ -8,7 +8,7 @@
 
 关注微信公众号【ROS机器人开发】，获取更多ROS机器人开发资料，还有抽奖活动！
 
-![扫码_搜索联合传播样式-标准色版](https://gitee.com/wybros/Image/raw/master/img/扫码_搜索联合传播样式-标准色版.png)
+![](README.assets/扫码_搜索联合传播样式-标准色版.png)
 
 ## ROS安装
 
