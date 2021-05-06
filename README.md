@@ -52,15 +52,15 @@
 
 #### 	Kinect版本安装教程
 
-​		sudo apt-get install ros-kinetic-serial
+sudo apt-get install ros-kinetic-serial
 
 #### 	melodic版本安装教程
 
-​		sudo apt-get install ros-melodic-serial
+sudo apt-get install ros-melodic-serial
 
 #### 	notice版本安装
 
-​		sudo apt-get install ros-notice-serial
+sudo apt-get install ros-notice-serial
 
 
 
@@ -80,27 +80,33 @@ https://blog.csdn.net/fb_941219/article/details/84481689
 
 ### ROS gazebo仿真模型
 
+gazebo模型官方下载链接：https://github.com/osrf/gazebo_models
 
+为了方便大家下载，已上传到百度云盘
+
+关注微信公众号：ROS机器人开发
+
+回复  999 即可获取下载链接
 
 ### navigation安装
 
 #### 	Kinect版本安装教程
 
-​		git clone -b kinetic-devel https://github.com/ros-planning/navigation.git
+git clone -b kinetic-devel https://github.com/ros-planning/navigation.git
 
 #### 	melodic版本安装教程
 
-​		git clone -b melodic-devel https://github.com/ros-planning/navigation.git
+git clone -b melodic-devel https://github.com/ros-planning/navigation.git
 
 #### 	notice版本安装
 
-​		git clone -b noetic-devel https://github.com/ros-planning/navigation.git
+git clone -b noetic-devel https://github.com/ros-planning/navigation.git
 
 
 
 ### robot_pose_ekf 安装教程
 
-​	git clone https://github.com/ros-planning/robot_pose_ekf.git
+git clone https://github.com/ros-planning/robot_pose_ekf.git
 
 
 
@@ -108,11 +114,11 @@ https://blog.csdn.net/fb_941219/article/details/84481689
 
 #### 	RPLIDAR
 
-​		https://github.com/Slamtec/rplidar_ros
+官方Github链接：https://github.com/Slamtec/rplidar_ros
 
-​		git clone https://github.com/Slamtec/rplidar_ros.git
+git clone https://github.com/Slamtec/rplidar_ros.git
 
-​		RPLidar A1示意图
+RPLidar A1示意图
 
 ![请输入图片描述](https://gitee.com/wybros/Image/raw/master/img/rplidar_A1.png)
 
@@ -132,29 +138,29 @@ https://blog.csdn.net/fb_941219/article/details/84481689
 
 ### 	ROS WIKI 
 
-​		网站链接 http://wiki.ros.org/cn/ROS/Tutorials
+网站链接 http://wiki.ros.org/cn/ROS/Tutorials
 
 ### 	古月居
 
 #### 		ROS入门21讲
 
-​			视频教程 https://www.bilibili.com/video/BV1zt411G7Vn
+视频教程 https://www.bilibili.com/video/BV1zt411G7Vn
 
 #### 		ROS机器人开发案例
 
-​			视频教程 https://www.bilibili.com/video/BV1vb41177qN
+视频教程 https://www.bilibili.com/video/BV1vb41177qN
 
 #### 		ROS机械臂开发原理
 
-​			视频教程 https://www.bilibili.com/video/BV14b411p7Hm
+视频教程 https://www.bilibili.com/video/BV14b411p7Hm
 
 ### 	中国大学MOOC --《机器人操作系统入门》
 
-​		视频教程 https://www.bilibili.com/video/BV1PJ411D7mj?from=search&seid=367619698396859163
+视频教程 https://www.bilibili.com/video/BV1PJ411D7mj?from=search&seid=367619698396859163
 
-​		课程讲义---Gitbook：https://sychaichangkun.gitbooks.io/ros-tutorial-icourse163/content/ 
+课程讲义---Gitbook：https://sychaichangkun.gitbooks.io/ros-tutorial-icourse163/content/ 
 
-​		代码示例---Github：https://github.com/DroidAITech/ROS-Academy-for-Beginners （注意版本）
+代码示例---Github：https://github.com/DroidAITech/ROS-Academy-for-Beginners （注意版本）
 
 ### 奥特学园 -- ROS机器人入门课程《ROS理论与实践》零基础教程
 
@@ -192,6 +198,12 @@ https://blog.csdn.net/fb_941219/article/details/84481689
 
 ### 多点导航
 
+### 虚拟墙
+
+### 语音交互
+
+### 使用自定义的全局路径规划算法
+
 
 
 ## [ROS书籍推荐](books.md)
@@ -200,9 +212,11 @@ https://blog.csdn.net/fb_941219/article/details/84481689
 
 
 
-## 移动路径规划
+## 路径规划
 
+基于图搜索的路径规划算法
 
+基于采样的路径规划算法
 
 ## SLAM
 
@@ -238,9 +252,9 @@ https://blog.csdn.net/fb_941219/article/details/84481689
 
 ### ROS小课堂 
 
-视频链接 https://www.youku.com/profile/index/?spm=a2hbt.13141534.1_1.1&uid=UMTUzNzkwNTA1Ng==（搜索语音交互）
+视频链接 https://www.youku.com/profile/index/?spm=a2hbt.13141534.1_1.1&uid=UMTUzNzkwNTA1Ng==  （搜索语音交互）
 
-
+![ROS小课堂-语音交互截图](https://gitee.com/wybros/Image/raw/master/img/ROS小课堂-语音交互截图.png)
 
 ### 小虎哥哥爱学习
 
