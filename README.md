@@ -8,7 +8,7 @@
 
 关注微信公众号【ROS机器人开发】，获取更多ROS机器人开发资料，还有抽奖活动！
 
-
+![扫码_搜索联合传播样式-标准色版](https://gitee.com/wybros/Image/raw/master/img/扫码_搜索联合传播样式-标准色版.png)
 
 ## ROS安装
 
@@ -180,17 +180,7 @@ https://www.jianshu.com/p/b52d3a71cbf3
 
 
 
-## ROS开发书籍
-
-https://item.jd.com/12377412.html
-
-https://item.jd.com/12800144.html
-
-https://item.jd.com/12193276.html
-
-https://item.jd.com/12666058.html
-
-https://item.jd.com/12988866.html
+## [ROS开发书籍](books.md)
 
 
 
