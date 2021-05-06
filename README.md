@@ -42,9 +42,13 @@
 
 
 
+## ROS开发环境搭建
+
+
+
 ## ROS相关软件安装
 
-### cartography安装教程
+### [cartography安装教程](https://github.com/WLwind/cartographer_installation)
 
 
 
@@ -76,7 +80,15 @@ https://blog.csdn.net/fb_941219/article/details/84481689
 
 #### minicom
 
+### opencv安装
 
+pip install opencv-python
+
+### [teleop_twist_keyboard 键盘控制机器人](https://github.com/ros-teleop/teleop_twist_keyboard)
+
+
+
+### 
 
 ### ROS gazebo仿真模型
 
@@ -87,6 +99,8 @@ gazebo模型官方下载链接：https://github.com/osrf/gazebo_models
 关注微信公众号：ROS机器人开发
 
 回复  999 即可获取下载链接
+
+
 
 ### navigation安装
 
@@ -198,11 +212,21 @@ RPLidar A1示意图
 
 ### 多点导航
 
+### ROS开机启动
+
 ### 虚拟墙
 
 ### 语音交互
 
 ### 使用自定义的全局路径规划算法
+
+### 目标检测
+
+#### [实时目标检测(darknet_ros)](https://www.rt-thread.org/document/site/tutorial/smart-car/object-detection/object-detection/)
+
+#### [Ros平台下基于face_recognition的人脸检测及识别](https://blog.csdn.net/qq_41658212/article/details/105399909)
+
+#### [摄像头标定和opencv识别](https://zhuanlan.zhihu.com/p/179166753)
 
 
 
