@@ -18,11 +18,11 @@
 
 ### 虚拟机
 
-#### 	Kinect版本安装教程（ros init失败解决办法请看melodic版本安装）
+#### 	    Kinect版本安装教程（ros init失败解决办法请看melodic版本安装）
 
-#### 	melodic版本安装教程（附带ros init失败解决办法）
+#### 	    melodic版本安装教程（附带ros init失败解决办法）
 
-#### 	[notice版本安装教程（附带ros init失败解决办法）](http://www.autolabor.com.cn/book/ROSTutorials/chapter1/12-roskai-fa-gong-ju-an-zhuang/124-an-zhuang-ros.html)
+#### 	[    notice版本安装教程（附带ros init失败解决办法）](http://www.autolabor.com.cn/book/ROSTutorials/chapter1/12-roskai-fa-gong-ju-an-zhuang/124-an-zhuang-ros.html)
 
 ### 树莓派
 
