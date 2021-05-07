@@ -18,32 +18,32 @@
 
 - ### 虚拟机
 
+  - 
+    #### 	    Kinect版本安装教程（ros init失败解决办法请看melodic版本安装）
 
-#### 	    Kinect版本安装教程（ros init失败解决办法请看melodic版本安装）
+  - #### 	    melodic版本安装教程（附带ros init失败解决办法）
 
-#### 	    melodic版本安装教程（附带ros init失败解决办法）
-
-#### 	[notice版本安装教程（附带ros init失败解决办法）](http://www.autolabor.com.cn/book/ROSTutorials/chapter1/12-roskai-fa-gong-ju-an-zhuang/124-an-zhuang-ros.html)
+  - #### 	[notice版本安装教程（附带ros init失败解决办法）](http://www.autolabor.com.cn/book/ROSTutorials/chapter1/12-roskai-fa-gong-ju-an-zhuang/124-an-zhuang-ros.html)
 
 - ### 树莓派
 
+  - 
+    #### 	Kinect版本安装教程
 
-#### 	Kinect版本安装教程
+  - #### 	melodic版本安装教程
 
-#### 	melodic版本安装教程
-
-#### 	notice版本安装
+  - #### 	notice版本安装
 
 - ### jetson nano
 
+  - 
+    #### 	Kinect版本安装教程
 
-#### 	Kinect版本安装教程
+  - #### 	melodic版本安装教程
 
-#### 	melodic版本安装教程
+  - #### 	notice版本安装
 
-#### 	notice版本安装
-
-
+、
 
 ## ROS开发环境搭建
 
@@ -59,17 +59,18 @@
 - ### ROS serial 串口安装教程
 
 
-#### 	Kinect版本安装教程
+  - 
+    #### 	Kinect版本安装教程
 
-`sudo apt-get install ros-kinetic-serial`
+    `sudo apt-get install ros-kinetic-serial`
 
-#### 	melodic版本安装教程
+  - #### 	melodic版本安装教程
 
-`sudo apt-get install ros-melodic-serial`
+    `sudo apt-get install ros-melodic-serial`
 
-#### 	notice版本安装
+  - #### 	notice版本安装
 
-`sudo apt-get install ros-notice-serial`
+    `sudo apt-get install ros-notice-serial`
 
 
 
@@ -81,16 +82,15 @@
 - ### 串口调试软件安装
 
 
-https://blog.csdn.net/fb_941219/article/details/84481689
+  - #### cutecom
 
-#### cutecom
+  - #### minicom
 
-#### minicom
+  
 
 - ### opencv安装
 
-
-`pip install opencv-python`
+  `pip install opencv-python`
 
 - ### [teleop_twist_keyboard 键盘控制安装](https://github.com/ros-teleop/teleop_twist_keyboard)
 
@@ -100,56 +100,55 @@ https://blog.csdn.net/fb_941219/article/details/84481689
 - ### ROS gazebo仿真模型
 
 
-gazebo模型官方下载链接：https://github.com/osrf/gazebo_models
+  gazebo模型官方下载链接：https://github.com/osrf/gazebo_models
 
-为了方便大家下载，已上传到百度云盘
+  为了方便大家下载，已上传到百度云盘
 
-关注微信公众号：ROS机器人开发
+  关注微信公众号：ROS机器人开发
 
-回复  999 即可获取下载链接
+  回复  999 即可获取下载链接
 
 
 
 - ### navigation功能包安装
 
+  - 
+    #### 	Kinect版本安装教程
 
-#### 	Kinect版本安装教程
+    `git clone -b kinetic-devel https://github.com/ros-planning/navigation.git`
 
-`git clone -b kinetic-devel https://github.com/ros-planning/navigation.git`
+  - #### 	melodic版本安装教程
 
-#### 	melodic版本安装教程
+    `git clone -b melodic-devel https://github.com/ros-planning/navigation.git`
 
-`git clone -b melodic-devel https://github.com/ros-planning/navigation.git`
+  - #### 	notice版本安装
 
-#### 	&ensp;&ensp;notice版本安装
-
-`git clone -b noetic-devel https://github.com/ros-planning/navigation.git`
+    `git clone -b noetic-devel https://github.com/ros-planning/navigation.git`
 
 
 
 - ### robot_pose_ekf 安装教程
 
-
-`git clone https://github.com/ros-planning/robot_pose_ekf.git`
+  `git clone https://github.com/ros-planning/robot_pose_ekf.git`
 
 
 
 - ### 雷达驱动包安装
 
+  - 
+    #### 	RPLIDAR
 
-#### 	RPLIDAR
+    官方Github链接：https://github.com/Slamtec/rplidar_ros
 
-官方Github链接：https://github.com/Slamtec/rplidar_ros
+    `git clone https://github.com/Slamtec/rplidar_ros.git`
 
-`git clone https://github.com/Slamtec/rplidar_ros.git`
-
-RPLidar A1示意图
+    RPLidar A1示意图
 
 ![请输入图片描述](https://gitee.com/wybros/Image/raw/master/img/rplidar_A1.png)
 
 
 
-​		RPLidar A2示意图
+RPLidar A2示意图
 
 ![请输入图片描述](https://gitee.com/wybros/Image/raw/master/img/rplidar_A2.png)
 
@@ -164,18 +163,18 @@ RPLidar A1示意图
 - ### 	ROS WIKI 
 
 
-网站链接 http://wiki.ros.org/cn/ROS/Tutorials
+  网站链接 http://wiki.ros.org/cn/ROS/Tutorials
 
 - ### 	古月居
 
+  - 
+    #### 		ROS入门21讲
 
-#### 		ROS入门21讲
+    视频教程 https://www.bilibili.com/video/BV1zt411G7Vn
 
-视频教程 https://www.bilibili.com/video/BV1zt411G7Vn
+  - #### ROS机器人开发案例
 
-#### 		ROS机器人开发案例
-
-视频教程 https://www.bilibili.com/video/BV1vb41177qN
+    视频教程 https://www.bilibili.com/video/BV1vb41177qN
 
 #### 		ROS机械臂开发原理
 
