@@ -20,13 +20,55 @@
 
 ### [ROS安装](#ROS安装)
 
+### [ROS开发环境搭建](#ROS开发环境搭建)
 
+### [ROS相关软件安装](#ROS相关软件安装)
+
+### [ROS问题总汇](#ROS问题总汇)
+
+### [ROS教程](#ROS教程])
+
+### [ROS进程功能教程](#ROS进程功能教程)
+
+### [ROS人机界面开发教程](#ROS人机界面开发教程)
+
+### [ROS 安卓APP](#ROS 安卓APP)
+
+### [ROS书籍推荐](#ROS书籍推荐)
+
+### [Git使用教程](#Git使用教程)
+
+### [机器人运动学模型](#机器人运动学模型)
+
+### [路径规划算法](#[路径规划算法]())
+
+### [SLAM](#SLAM)
+
+### [机器视觉](#机器视觉)
+
+### [语音识别和控制](#语音识别和控制)
+
+### [机器狗项目spotMicro](#机器狗项目spotMicro)
+
+### [硬件资料](#硬件资料)
+
+### [编程资料](#编程资料)
+
+### [贡献者](#贡献者)
 
 
 
 ## ROS安装
 
 ### 虚拟机ROS安装
+
+- #### 虚拟机安装教程
+
+  - ubuntu16镜像下载链接
+
+  - ubuntu18镜像下载链接
+
+  - ubuntu20镜像下载链接
 
 - 
   #### 	    Kinect版本安装教程（ros init失败解决办法请看melodic版本安装）
@@ -37,6 +79,8 @@
 
 ### 树莓派ROS安装
 
+- #### 树莓派安装教程
+
 - 
   #### 	Kinect版本安装教程
 
@@ -45,6 +89,8 @@
 - #### 	notice版本安装
 
 ### Jetson nano ROS安装
+
+- #### Jetson nano 安装教程
 
 - 
   #### 	Kinect版本安装教程
@@ -57,7 +103,13 @@
 
 ## ROS开发环境搭建
 
+### [Vscode安装和配置（C++和Python）](http://www.autolabor.com.cn/book/ROSTutorials/chapter1/14-ros-ji-cheng-kai-fa-huan-jing-da-jian/142-an-zhuang-vscode.html)
 
+### Clion安装和配置
+
+- #### [安装教程](https://blog.csdn.net/ChuiGeDaQiQiu/article/details/114324796)
+
+- #### [配置教程](https://www.jb51.net/article/193563.htm)
 
 ## ROS相关软件安装
 
@@ -65,7 +117,7 @@
 
 
 
-### ROS serial 串口安装教程
+### ROS serial 串口通信功能包安装
 
 
   - 
@@ -83,16 +135,16 @@
 
 
 
-### vscode安装
-
 
 
 ### 串口调试软件安装
 
+建议使用cutecom
 
-  - #### cutecom
 
-  - #### minicom
+  - #### [cutecom 安装和使用教程](https://blog.csdn.net/shui1025701856/article/details/79277484/)
+
+  - #### [minicom 安装和使用教程](https://blog.csdn.net/mybelief321/article/details/8987502)
 
   
 
@@ -102,7 +154,7 @@
 
 
 
-### [teleop_twist_keyboard 键盘控制安装](https://github.com/ros-teleop/teleop_twist_keyboard)
+### [teleop_twist_keyboard 键盘控制功能包安装](https://github.com/ros-teleop/teleop_twist_keyboard)
 
 
 
@@ -145,7 +197,7 @@
 ### 雷达驱动包安装
 
 - 
-  #### 	RPLIDAR
+  #### 	RPLIDAR(思岚)
 
   官方Github链接：https://github.com/Slamtec/rplidar_ros
 
@@ -167,11 +219,11 @@
 
 ## ROS教程
 
-以下排名不分先后
+**以下排名不分先后**
 
 ### 	ROS WIKI 
 
-网站链接 http://wiki.ros.org/cn/ROS/Tutorials
+网站链接： http://wiki.ros.org/cn/ROS/Tutorials
 
 
 
@@ -180,22 +232,22 @@
 - 
   #### 		ROS入门21讲
 
-  视频教程 https://www.bilibili.com/video/BV1zt411G7Vn
+  视频教程：https://www.bilibili.com/video/BV1zt411G7Vn
 
 - #### ROS机器人开发案例
 
-  视频教程 https://www.bilibili.com/video/BV1vb41177qN
+  视频教程：https://www.bilibili.com/video/BV1vb41177qN
 
 - #### 		ROS机械臂开发原理
 
-  视频教程 https://www.bilibili.com/video/BV14b411p7Hm
+  视频教程：https://www.bilibili.com/video/BV14b411p7Hm
 
   
 
 ### 	中国大学MOOC --《机器人操作系统入门》
 
 
-&emsp;&emsp;视频教程 https://www.bilibili.com/video/BV1PJ411D7mj?from=search&seid=367619698396859163
+&emsp;&emsp;视频教程：https://www.bilibili.com/video/BV1PJ411D7mj?from=search&seid=367619698396859163
 
 &emsp;&emsp;课程讲义---Gitbook：https://sychaichangkun.gitbooks.io/ros-tutorial-icourse163/content/ 
 
@@ -208,21 +260,21 @@
 
 &emsp;&emsp;作者：赵虚左老师
 
-&emsp;&emsp;视频教程 https://www.bilibili.com/video/BV1Ci4y1L7ZZ?p=1
+&emsp;&emsp;视频教程： https://www.bilibili.com/video/BV1Ci4y1L7ZZ?p=1
 
-&emsp;&emsp;课程文档 http://www.autolabor.com.cn/book/ROSTutorials/
+&emsp;&emsp;课程文档： http://www.autolabor.com.cn/book/ROSTutorials/
 
 
 
 ### ROS小课堂 -- ROS快速入门课程
 
-&emsp;&emsp;视频教程 https://space.bilibili.com/407185400/channel/detail?cid=147661
+&emsp;&emsp;视频教程：https://space.bilibili.com/407185400/channel/detail?cid=147661
 
 
 
 ### ROS入门教程 - 创客智造
 
-&emsp;&emsp;网站链接  https://www.ncnynl.com/archives/201608/496.html
+&emsp;&emsp;网站链接：https://www.ncnynl.com/archives/201608/496.html
 
 
 
@@ -232,20 +284,20 @@
 
 ### 黑马ROS无人车
 
-&emsp;&emsp;视频教程 https://www.bilibili.com/video/BV1qh41197TZ?p=1
+&emsp;&emsp;视频教程：https://www.bilibili.com/video/BV1qh41197TZ?p=1
 
 
 
 ### 小白学移动机器人
 
-&emsp;&emsp;课程文档 https://blog.csdn.net/zhao_ke_xue/article/details/108138981
+&emsp;&emsp;课程文档：https://blog.csdn.net/zhao_ke_xue/article/details/108138981
 
 
 
 ### 小虎哥哥爱学习
 
 
-&emsp;&emsp;课程文档 https://www.cnblogs.com/hiram-zhang/p/10802569.html
+&emsp;&emsp;课程文档：https://www.cnblogs.com/hiram-zhang/p/10802569.html
 
 
 
@@ -255,17 +307,25 @@
 
 ### ROS开机启动
 
-### 虚拟墙
+- #### [robot_upstart方法](https://zhuanlan.zhihu.com/p/163048849)
+
+- #### [ubuntu自带upstart方法](https://blog.csdn.net/r1141207831/article/details/102941613)
+
+### [虚拟墙](https://blog.csdn.net/weixin_42005898/article/details/101757709)
 
 ### 语音交互
 
 ### 使用自定义的全局路径规划算法
 
+- #### [ROS WIKI教程](http://wiki.ros.org/navigation/Tutorials/Writing%20A%20Global%20Path%20Planner%20As%20Plugin%20in%20ROS)
+
+- #### [创客智造教程](https://www.ncnynl.com/archives/201708/1887.html)
+
 ### 多车仿真
 
 ### 搭建ROS仿真小车模型
 
-### 目标检测
+### [相机模拟激光数据并避障](https://blog.csdn.net/qq_39266065/article/details/108714973)
 
 - #### [实时目标检测(darknet_ros)](https://www.rt-thread.org/document/site/tutorial/smart-car/object-detection/object-detection/)
 
@@ -277,7 +337,7 @@
 
 ## ROS 人机界面开发教程
 
-### [基于Qt5的ROS人机交互界面](https://github.com/chengyangkj/Ros_Qt5_Gui_App)
+### [基于Qt5的ROS人机交互界面(蒋程扬老师)](https://github.com/chengyangkj/Ros_Qt5_Gui_App)
 
 ![人机界面演示](README.assets/人机界面演示.gif)
 
@@ -299,7 +359,7 @@
 
 
 
-## 运动学模型
+## 机器人运动学模型
 
 ### [两轮差速结构](https://blog.csdn.net/iProphet/article/details/83661753)
 
@@ -309,22 +369,7 @@
 
 
 
-
-## 硬件资料
-
-### 底层控制板
-
-
-- #### STM32
-
-- #### arduino
-
-### 上层控制板
-
-
-- #### 树莓派
-
-- #### jetson nano
+#### 
 
 
 
@@ -359,29 +404,29 @@
 
 ### ROS与语音交互教程 - 创客智造
 
-&emsp;&emsp;教程链接 https://www.ncnynl.com/category/ros-voice/
+&emsp;&emsp;教程链接： https://www.ncnynl.com/category/ros-voice/
 
 ### 古月居 ROS探索总结（十）—— 语音控制
 
 
-&emsp;&emsp;教程链接  https://www.guyuehome.com/260
+&emsp;&emsp;教程链接： https://www.guyuehome.com/260
 
 ### 天之博特  中文ROS语音交互模块
 
 
-&emsp;&emsp;教程链接 http://doc.tianbot.com/rosecho/1586400
+&emsp;&emsp;教程链接： http://doc.tianbot.com/rosecho/1586400
 
 ### ROS小课堂 
 
 
-&emsp;&emsp;视频链接 https://www.youku.com/profile/index/?spm=a2hbt.13141534.1_1.1&uid=UMTUzNzkwNTA1Ng==  （搜索语音交互）
+&emsp;&emsp;视频链接： https://www.youku.com/profile/index/?spm=a2hbt.13141534.1_1.1&uid=UMTUzNzkwNTA1Ng==  （搜索语音交互）
 
 ![ROS小课堂-语音交互截图](https://gitee.com/wybros/Image/raw/master/img/ROS小课堂-语音交互截图.png)
 
 ### 小虎哥哥爱学习
 
 
-&emsp;&emsp;课程链接 https://www.cnblogs.com/hiram-zhang/p/10421162.html
+&emsp;&emsp;课程链接： https://www.cnblogs.com/hiram-zhang/p/10421162.html
 
 
 
@@ -390,6 +435,22 @@
 <img src="https://gitee.com/wybros/Image/raw/master/img/SpotMicroAI_complete_1.jpg" alt="SpotMicroAI" style="zoom:50%;" />
 
 
+
+## 硬件资料
+
+### 底层控制板
+
+
+- #### STM32
+
+- #### arduino
+
+### 上层控制板
+
+
+- #### 树莓派
+
+- #### jetson nano
 
 
 
