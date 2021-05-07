@@ -52,19 +52,19 @@
 
 
 
-### ROS serial安装教程
+### ROS serial 串口安装教程
 
 #### 	Kinect版本安装教程
 
-sudo apt-get install ros-kinetic-serial
+`sudo apt-get install ros-kinetic-serial`
 
 #### 	melodic版本安装教程
 
-sudo apt-get install ros-melodic-serial
+`sudo apt-get install ros-melodic-serial`
 
 #### 	notice版本安装
 
-sudo apt-get install ros-notice-serial
+`sudo apt-get install ros-notice-serial`
 
 
 
@@ -82,7 +82,7 @@ https://blog.csdn.net/fb_941219/article/details/84481689
 
 ### opencv安装
 
-pip install opencv-python
+`pip install opencv-python`
 
 ### [teleop_twist_keyboard 键盘控制机器人](https://github.com/ros-teleop/teleop_twist_keyboard)
 
@@ -102,35 +102,35 @@ gazebo模型官方下载链接：https://github.com/osrf/gazebo_models
 
 
 
-### navigation安装
+### navigation功能包安装
 
 #### 	Kinect版本安装教程
 
-git clone -b kinetic-devel https://github.com/ros-planning/navigation.git
+`git clone -b kinetic-devel https://github.com/ros-planning/navigation.git`
 
 #### 	melodic版本安装教程
 
-git clone -b melodic-devel https://github.com/ros-planning/navigation.git
+`git clone -b melodic-devel https://github.com/ros-planning/navigation.git`
 
 #### 	notice版本安装
 
-git clone -b noetic-devel https://github.com/ros-planning/navigation.git
+`git clone -b noetic-devel https://github.com/ros-planning/navigation.git`
 
 
 
 ### robot_pose_ekf 安装教程
 
-git clone https://github.com/ros-planning/robot_pose_ekf.git
+`git clone https://github.com/ros-planning/robot_pose_ekf.git`
 
 
 
-### 雷达驱动包
+### 雷达驱动包安装
 
 #### 	RPLIDAR
 
 官方Github链接：https://github.com/Slamtec/rplidar_ros
 
-git clone https://github.com/Slamtec/rplidar_ros.git
+`git clone https://github.com/Slamtec/rplidar_ros.git`
 
 RPLidar A1示意图
 
@@ -178,7 +178,7 @@ RPLidar A1示意图
 
 ### 奥特学园 -- ROS机器人入门课程《ROS理论与实践》零基础教程
 
-作者：赵虚左赵老师
+作者：赵虚左老师
 
 视频教程 https://www.bilibili.com/video/BV1Ci4y1L7ZZ?p=1
 
@@ -208,7 +208,7 @@ RPLidar A1示意图
 
 
 
-## ROS进阶功能
+## ROS进阶功能教程
 
 ### 多点导航
 
@@ -219,6 +219,10 @@ RPLidar A1示意图
 ### 语音交互
 
 ### 使用自定义的全局路径规划算法
+
+### 多车仿真
+
+### 搭建ROS仿真小车模型
 
 ### 目标检测
 
@@ -234,11 +238,53 @@ RPLidar A1示意图
 
 
 
+## Git使用教程
+
+### [高质量的Git中文教程](https://github.com/geeeeeeeeek/git-recipes)
+
+### [Git小白教程](https://rogerdudler.github.io/git-guide/index.zh.html)
+
+### [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
 
 
-## 路径规划
+
+## 运动学模型
+
+### [两轮差速结构](https://blog.csdn.net/iProphet/article/details/83661753)
+
+### [麦克纳姆结构](https://blog.csdn.net/weixin_30627381/article/details/97069120)
+
+### [阿克曼转向结构](https://blog.csdn.net/u013914471/article/details/82968608)
+
+
+
+## 硬件资料
+
+### 底层控制板
+
+#### STM32
+
+#### arduino
+
+### 上层控制板
+
+#### 树莓派
+
+#### jetson nano
+
+
+
+
+
+
+
+
+
+## 路径规划算法
 
 基于图搜索的路径规划算法
+
+
 
 基于采样的路径规划算法
 
@@ -283,3 +329,23 @@ RPLidar A1示意图
 ### 小虎哥哥爱学习
 
 课程链接 https://www.cnblogs.com/hiram-zhang/p/10421162.html
+
+
+
+## [spotMicro机器狗项目](https://github.com/mike4192/spotMicro)
+
+<img src="https://gitee.com/wybros/Image/raw/master/img/SpotMicroAI_complete_1.jpg" alt="SpotMicroAI" style="zoom:50%;" />
+
+
+
+
+
+## 编程资料
+
+### C/C++资料
+
+### Python资料
+
+### Linux资料
+
+## 感谢名单
