@@ -30,6 +30,8 @@
 
 ### [ROS进程功能教程](#ROS进程功能教程)
 
+### ROS代码demo
+
 ### [ROS人机界面开发教程](#ROS人机界面开发教程)
 
 ### [ROS安卓APP](#ROS安卓APP)
@@ -64,13 +66,13 @@
 
 ### 虚拟机ROS安装
 
-- #### 虚拟机安装教程
+- #### 虚拟机镜像安装教程（阿里云）
 
-  - ubuntu16镜像下载链接
+  - [ubuntu-16.04.7-desktop-amd64 镜像下载链接](http://mirrors.aliyun.com/ubuntu-releases/16.04/ubuntu-16.04.7-desktop-amd64.iso)
 
-  - ubuntu18镜像下载链接
+  - [ubuntu-18.04.5-desktop-amd64 镜像下载链接](http://mirrors.aliyun.com/ubuntu-releases/18.04/ubuntu-18.04.5-desktop-amd64.iso)
 
-  - ubuntu20镜像下载链接
+  - [ubuntu-20.04.2.0-desktop-amd64 镜像下载链接](http://mirrors.aliyun.com/ubuntu-releases/20.04/ubuntu-20.04.2.0-desktop-amd64.iso)
 
 - 
   #### 	    Kinect版本安装教程（ros init失败解决办法请看melodic版本安装）
@@ -150,7 +152,7 @@
 
   - #### [minicom 安装和使用教程](https://blog.csdn.net/mybelief321/article/details/8987502)
 
-  &nbsp;
+&nbsp;
 
 ### opencv安装
 
@@ -286,11 +288,15 @@
 
 ### 深蓝学院 
 
+- #### ROS机器人开发案例——浅谈如何将ROS应用于机器人开发
+
+  &emsp;&emsp;视频教程：https://www.bilibili.com/video/BV1Yb411h7jg
+
 &nbsp;
 
-### 黑马ROS无人车
+### 黑马程序员_零基础玩转机器人操作系统ROS
 
-&emsp;&emsp;视频教程：https://www.bilibili.com/video/BV1qh41197TZ?p=1
+&emsp;&emsp;视频教程：https://www.bilibili.com/video/BV1Bh411y7QM
 
 &nbsp;
 
@@ -349,11 +355,57 @@
 
 
 
+## ROS代码demo
+
+### Topic通信
+
+- #### C++版本
+
+- #### Python版本
+
+### 自义定msg
+
+- #### C++版本
+
+- #### Python版本
+
+### Server通信
+
+- #### C++版本
+
+- #### Python版本
+
+### 参数服务器
+
+- #### C++版本
+
+- #### Python版本
+
+
+
+## ROS常用命令
+
+#### [教程示例](http://www.autolabor.com.cn/book/ROSTutorials/di-2-zhang-ros-jia-gou-she-ji/24-chang-yong-ming-ling.html)
+
+&nbsp;
+
+## ROS文件详解
+
+### [launch文件](http://www.autolabor.com.cn/book/ROSTutorials/5/45-rosjie-dianguan-li-launch-wen-jian.html)
+
+### [CMakeLists.txt文件](https://blog.csdn.net/weixin_42587961/article/details/86381730)
+
+### [package.xml文件](https://blog.csdn.net/qq_43667745/article/details/90137505)
+
+&nbsp;
+
 ## ROS 人机界面开发教程
 
 ### [基于Qt5的ROS人机交互界面(蒋程扬老师)](https://github.com/chengyangkj/Ros_Qt5_Gui_App)
 
 ![人机界面演示](README.assets/人机界面演示.gif)
+
+&nbsp;
 
 ## ROS安卓APP
 
@@ -387,9 +439,51 @@
 
 ## 路径规划算法
 
-基于图搜索的路径规划算法
+### 基于图搜索的路径规划算法
 
-基于采样的路径规划算法
+- #### Dijkstra算法（D）
+
+  - ##### 文字
+
+  - ##### 视频
+
+    - [《Dijkstra算法讲解》（IR艾若机器人）](https://www.bilibili.com/video/BV1yT4y1T7Eb?p=2)
+    - [《路径规划与轨迹跟踪系列算法学习第1讲Dijkstra算法》by 小黎的Ally](https://www.bilibili.com/video/BV19T4y1M7uR)
+
+&nbsp;
+
+- #### A星算法（A* /Astar）
+
+  - ##### 文字
+
+  - ##### 视频
+
+    - [《A*算法讲解》by IR艾若机器人](https://www.bilibili.com/video/BV1yT4y1T7Eb?p=4)
+    - [《路径规划与轨迹跟踪系列算法学习第4讲A*算法》by 小黎的Ally](https://www.bilibili.com/video/BV1Jt4y1z7Ry)
+
+### 基于采样的路径规划算法
+
+- #### RRT算法
+
+  - ##### 文字
+
+  - ##### 视频
+
+    - [《RRT算法讲解》（IR艾若机器人）](https://www.bilibili.com/video/BV1yT4y1T7Eb?p=5)
+
+- #### RRT*算法
+  - ##### 文字
+
+  - ##### 视频
+
+    - [《RRT*算法讲解》（IR艾若机器人）](https://www.bilibili.com/video/BV1yT4y1T7Eb?p=6)
+
+- #### Informed RRT*算法
+  - ##### 文字
+
+  - ##### 视频
+
+    - [《Informed RRT* 算法讲解》（IR艾若机器人）](https://www.bilibili.com/video/BV1yT4y1T7Eb?p=7)
 
 &nbsp;
 
@@ -397,7 +491,22 @@
 
 ### 激光slam
 
+- #### 教程
+
+- #### 视频
+
+  - [《slam 激光传感器与无人驾驶（完）》](https://www.bilibili.com/video/BV1hb411L7VF?from=search&seid=428409986740182790)
+
 ### 视觉slam
+
+- #### 文章
+
+  - ##### [《视觉SLAM十四讲》笔记摘抄](https://blog.csdn.net/ncepu_Chen/article/details/105322585)
+
+- #### 视频
+
+  - [《视觉十四讲（第二版）》（高翔老师）](https://www.bilibili.com/video/BV1Dz4y1S7gn?p=1)
+  - [《浙江大学视觉slam公开课-从视频标定到SLAM》](https://www.bilibili.com/video/BV1ax411R7Hd?p=1)
 
 &nbsp;
 
@@ -459,11 +568,44 @@
 
 ## 编程资料
 
-### C/C++资料
+### C/C++
 
-### Python资料
+- #### 电子书
 
-### Linux资料
+  - 《21天学通c++_第7版》        
+  - 《C++ Primer Plus（第6版）中文版》
+
+- #### 视频教程
+
+  - [黑马程序员C++从0到1入门编程（附C++编程环境搭建教程）](https://www.bilibili.com/video/BV1gb411Y7Yh)
+
+### Python
+
+- #### 电子书
+
+  - 《Python编程  从入门到实践》
+  - 《Python3.5从零开始学》
+
+- #### 视频教程
+
+  - [黑马程序员Python小白基础入门教程 Python入门到精通教程](https://www.bilibili.com/video/BV1Az4y1S7oK?p=1)
+
+### Linux
+
+- #### 电子书
+
+  - 《鸟哥的Linux私房菜-基础篇-第四版》
+
+- #### 视频教程
+
+  - [黑马程序员linux入门到精通 （上）](https://www.bilibili.com/video/BV1nW411L7xm)
+  - [黑马程序员linux入门到精通 （下）](https://www.bilibili.com/video/BV1DW411G7VB)
+
+&nbsp;
+
+## 扩展视频
+
+
 
 &nbsp;
 
