@@ -18,7 +18,7 @@
 
 ## 目录
 
-### [ROS安装](#ROS安装)
+### [ROS安装](#ros安装)
 
 ### [ROS开发环境搭建](#ROS开发环境搭建)
 
@@ -62,7 +62,9 @@
 
 &nbsp;
 
-## ROS安装
+<span id="jump">跳转到的地方</span>
+
+## <span id="ros安装">ROS安装</span>
 
 ### 虚拟机ROS安装
 
@@ -103,9 +105,9 @@
 
 - #### 	notice版本安装
 
-、
+&nbsp;
 
-## ROS开发环境搭建
+## <span id="ROS开发环境搭建">ROS开发环境搭建</span>
 
 ### [Vscode安装和配置（C++和Python）](http://www.autolabor.com.cn/book/ROSTutorials/chapter1/14-ros-ji-cheng-kai-fa-huan-jing-da-jian/142-an-zhuang-vscode.html)
 
