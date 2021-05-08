@@ -18,7 +18,7 @@
 
 ## 目录
 
-### [ROS安装](#ros安装)
+### [ROS安装](#1)
 
 ### [ROS开发环境搭建](#ROS开发环境搭建)
 
@@ -64,7 +64,7 @@
 
 <span id="jump">跳转到的地方</span>
 
-## <span id="ros安装">ROS安装</span>
+## <span id="1">ROS安装</span>
 
 ### 虚拟机ROS安装
 
