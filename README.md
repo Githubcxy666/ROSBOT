@@ -54,6 +54,8 @@
 
 ### [语音识别和控制](#18)
 
+### [深度学习](#23)
+
 ### [机器狗项目spotMicro](#19)
 
 ### [硬件资料](#20)
@@ -452,9 +454,21 @@
 
 ### [两轮差速结构](https://blog.csdn.net/iProphet/article/details/83661753)
 
+
+
+<img src="https://gitee.com/wybros/Image/raw/master/img/v2-783b667ae182b0847d49e2f664c83993_1440w.jpg" alt="img" style="zoom:50%;" />
+
+&nbsp;
+
 ### [麦克纳姆结构](https://blog.csdn.net/weixin_30627381/article/details/97069120)
 
+<img src="https://gitee.com/wybros/Image/raw/master/img/1583484317375227.png" alt="微信图片_20200306105948.png" style="zoom:67%;" />
+
+&nbsp;
+
 ### [阿克曼转向结构](https://blog.csdn.net/u013914471/article/details/82968608)
+
+<img src="https://gitee.com/wybros/Image/raw/master/img/1620454828(1).jpg" alt="1620454828(1)" style="zoom:50%;" />
 
 &nbsp;
 
@@ -467,8 +481,10 @@
 
   - ##### 文字
 
-  - ##### 视频
+    - [Dijkstra算法原理](https://blog.csdn.net/yalishadaa/article/details/55827681)
 
+  - ##### 视频
+  
     - [《Dijkstra算法讲解》（IR艾若机器人）](https://www.bilibili.com/video/BV1yT4y1T7Eb?p=2)
     - [《路径规划与轨迹跟踪系列算法学习第1讲Dijkstra算法》by 小黎的Ally](https://www.bilibili.com/video/BV19T4y1M7uR)
 
@@ -478,16 +494,28 @@
 
   - ##### 文字
 
-  - ##### 视频
+    - [A*算法详解 一看就会 手把手推导 完整代码注释](https://mp.weixin.qq.com/s?__biz=MzU2OTMwNjE2MA==&mid=2247485317&idx=1&sn=4408d8f55a4f99544e3160982de1a3a3&chksm=fc81fadacbf673cc4c603d90174fe7b8561d8970b8c3b60a67516c1d4bb29dc06382bdbc4cb1&token=168864254&lang=zh_CN#rd)
 
+  - ##### 视频
+  
     - [《A*算法讲解》by IR艾若机器人](https://www.bilibili.com/video/BV1yT4y1T7Eb?p=4)
     - [《路径规划与轨迹跟踪系列算法学习第4讲A*算法》by 小黎的Ally](https://www.bilibili.com/video/BV1Jt4y1z7Ry)
+
+&nbsp;
+
+- #### D星算法（D* / Dynamic A）
+
+  - 文字
+    - [D*算法详解 一看就会 手把手推导 完整代码注释](https://mp.weixin.qq.com/s?__biz=MzU2OTMwNjE2MA==&mid=2247485939&idx=1&sn=9a28d04edd52d0fdd1f30a860d8bead3&chksm=fc81f4accbf67dbabbf1ad5c8f944d7f35fff6999ab9cf35d1db21760282f41d2d254e9bfcfd&token=168864254&lang=zh_CN#rd)
+  - 视频
 
 ### 基于采样的路径规划算法
 
 - #### RRT算法
 
   - ##### 文字
+
+    - [RRT算法详解 一看就会 手把手推导 完整代码注释](https://mp.weixin.qq.com/s?__biz=MzU2OTMwNjE2MA==&mid=2247486008&idx=1&sn=81529e2ac1cb365852a8cfa59150ac4c&chksm=fc81f767cbf67e71419c285052213ad2638d333180492d8475ed3e8716bd03ebdaa452cffbf5&token=168864254&lang=zh_CN#rd)
 
   - ##### 视频
 
@@ -496,15 +524,20 @@
 - #### RRT*算法
   - ##### 文字
 
+    - [【规划】RRT*算法图解](https://blog.csdn.net/yuxuan20062007/article/details/88843690)
+
   - ##### 视频
 
     - [《RRT*算法讲解》（IR艾若机器人）](https://www.bilibili.com/video/BV1yT4y1T7Eb?p=6)
-
+  
 - #### Informed RRT*算法
   - ##### 文字
 
+    - [Informed RRT*论文](https://arxiv.org/pdf/1404.2334v2.pdf) 
+  - [informed RRT*简述](https://zhuanlan.zhihu.com/p/162948527)
+  
   - ##### 视频
-
+  
     - [《Informed RRT* 算法讲解》（IR艾若机器人）](https://www.bilibili.com/video/BV1yT4y1T7Eb?p=7)
 
 &nbsp;
@@ -535,6 +568,22 @@
 
 ## <span id="17">机器视觉</span>
 
+### ROS与机器视觉教程 - 创客智造
+
+#### [教程链接](https://www.ncnynl.com/archives/201610/934.html)
+
+### 计算机视觉（本科） 北京邮电大学 鲁鹏 清晰完整合集
+
+#### [视频链接](https://www.bilibili.com/video/BV1nz4y197Qv)
+
+### OpenCV计算机视觉实战(Python版)
+
+#### [视频链接](https://www.bilibili.com/video/BV1ct411F7Te?from=search&seid=17839174235953044601)
+
+### 计算机视觉零基础入门
+
+#### [视频链接](https://www.bilibili.com/video/BV19x411X7k6?from=search&seid=17839174235953044601)
+
 &nbsp;
 
 ## <span id="18">语音识别和控制</span>
@@ -560,6 +609,14 @@
 ### 小虎哥哥爱学习
 
 #### [课程链接](https://www.cnblogs.com/hiram-zhang/p/10421162.html)
+
+&nbsp;
+
+## <span id="23">深度学习</span>
+
+
+
+
 
 &nbsp;
 
