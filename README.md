@@ -77,15 +77,15 @@
 - #### 虚拟机镜像安装教程（阿里云）
 
   - [ubuntu-16.04.7-desktop-amd64 镜像下载链接](http://mirrors.aliyun.com/ubuntu-releases/16.04/ubuntu-16.04.7-desktop-amd64.iso)
-
-  - [ubuntu-18.04.5-desktop-amd64 镜像下载链接](http://mirrors.aliyun.com/ubuntu-releases/18.04/ubuntu-18.04.5-desktop-amd64.iso)
-
+- [ubuntu-18.04.5-desktop-amd64 镜像下载链接](http://mirrors.aliyun.com/ubuntu-releases/18.04/ubuntu-18.04.5-desktop-amd64.iso)
   - [ubuntu-20.04.2.0-desktop-amd64 镜像下载链接](http://mirrors.aliyun.com/ubuntu-releases/20.04/ubuntu-20.04.2.0-desktop-amd64.iso)
 
-- 
-  #### 	    Kinect版本安装教程（ros init失败解决办法请看melodic版本安装）
+- #### [ROS rosdep init/update 百分百解决教程](https://mp.weixin.qq.com/s/mghnF4sesImHpg4ScZ-bRA)
 
-- #### 	    melodic版本安装教程（附带ros init失败解决办法）
+- 
+  #### 	    kinect版本安装教程
+
+- #### 	    [melodic版本安装教程](https://mp.weixin.qq.com/s?__biz=MzU2OTMwNjE2MA==&mid=2247483712&idx=1&sn=8019b598e7e5ba40f270f43625cd66b7&chksm=fc81fc1fcbf67509ff9faba6730ca278a8f34840abe0a6e05fc6699453df0fc0912ad1c3c2c1&token=168864254&lang=zh_CN#rd)
 
 - #### 	[notice版本安装教程（附带ros init失败解决办法）](http://www.autolabor.com.cn/book/ROSTutorials/chapter1/12-roskai-fa-gong-ju-an-zhuang/124-an-zhuang-ros.html)
 
@@ -133,7 +133,7 @@
 
 ### cartographer
 
-- #### [cartographer安装](https://github.com/WLwind/cartographer_installation)
+- #### [cartographer 一键安装](https://github.com/WLwind/cartographer_installation)
 
 - #### cartographer使用
 
@@ -182,7 +182,9 @@
 
 &nbsp;
 
-### [teleop_twist_keyboard 键盘控制功能包安装](https://github.com/ros-teleop/teleop_twist_keyboard)
+### 键盘控制功能包安装
+
+#### [teleop_twist_keyboard 安装](https://github.com/ros-teleop/teleop_twist_keyboard)
 
 &nbsp;
 
@@ -351,7 +353,7 @@
 
 - #### [虚拟墙使用教程](https://blog.csdn.net/weixin_42005898/article/details/101757709)
 
-### 语音交互
+### [语音交互](#18)
 
 ### 使用自定义的全局路径规划算法
 
@@ -363,11 +365,23 @@
 
 ### 多车仿真
 
+&nbsp;
+
 ### 搭建ROS仿真小车模型
+
+- #### [ROS WIKI URDF 教程](http://wiki.ros.org/cn/urdf)
+
+- #### [ROS探索总结（二十三）——解读URDF](https://www.guyuehome.com/372)
+
+- #### [ROS机器人建模与仿真(一)--URDF机器人建模](https://blog.csdn.net/weixin_43619346/article/details/107917683)
+
+&nbsp;
 
 ### 相机模拟激光数据并避障
 
 - #### [相机模拟激光数据并避障教程](https://blog.csdn.net/qq_39266065/article/details/108714973)
+
+&nbsp;
 
 ### 目标检测
 
@@ -377,7 +391,7 @@
 
 - #### [摄像头标定和opencv识别](https://zhuanlan.zhihu.com/p/179166753)
 
-
+&nbsp;
 
 ## <span id="7">ROS代码demo</span>
 
@@ -405,7 +419,7 @@
 
 - #### Python版本
 
-
+&nbsp;
 
 ## <span id="8">ROS常用命令</span>
 
@@ -415,11 +429,11 @@
 
 ## <span id="9">ROS文件详解</span>
 
-### [launch文件](http://www.autolabor.com.cn/book/ROSTutorials/5/45-rosjie-dianguan-li-launch-wen-jian.html)
+### [launch 文件详解](http://www.autolabor.com.cn/book/ROSTutorials/5/45-rosjie-dianguan-li-launch-wen-jian.html)
 
-### [CMakeLists.txt文件](https://blog.csdn.net/weixin_42587961/article/details/86381730)
+### [CMakeLists.txt 文件详解](https://blog.csdn.net/weixin_42587961/article/details/86381730)
 
-### [package.xml文件](https://blog.csdn.net/qq_43667745/article/details/90137505)
+### [package.xml 文件详解](https://blog.csdn.net/qq_43667745/article/details/90137505)
 
 &nbsp;
 
@@ -427,7 +441,7 @@
 
 ### [基于Qt5的ROS人机交互界面(蒋程扬老师)](https://github.com/chengyangkj/Ros_Qt5_Gui_App)
 
-![人机界面演示](README.assets/人机界面演示.gif)
+![](https://gitee.com/wybros/Image/raw/master/img/人机界面演示001(1).jpg)
 
 &nbsp;
 
@@ -452,21 +466,25 @@
 
 ## <span id="14">机器人运动学模型</span>
 
-### [两轮差速结构](https://blog.csdn.net/iProphet/article/details/83661753)
+### 两轮差速结构
 
-
+### [两轮差速运动学模型详解](https://blog.csdn.net/iProphet/article/details/83661753)
 
 <img src="https://gitee.com/wybros/Image/raw/master/img/v2-783b667ae182b0847d49e2f664c83993_1440w.jpg" alt="img" style="zoom:50%;" />
 
 &nbsp;
 
-### [麦克纳姆结构](https://blog.csdn.net/weixin_30627381/article/details/97069120)
+### 麦克纳姆结构
+
+### [麦克纳姆运动学模型详解](https://blog.csdn.net/weixin_30627381/article/details/97069120)
 
 <img src="https://gitee.com/wybros/Image/raw/master/img/1583484317375227.png" alt="微信图片_20200306105948.png" style="zoom:67%;" />
 
 &nbsp;
 
-### [阿克曼转向结构](https://blog.csdn.net/u013914471/article/details/82968608)
+### 阿克曼转向结构
+
+### [阿克曼转向运动学模型详解](https://blog.csdn.net/u013914471/article/details/82968608)
 
 <img src="https://gitee.com/wybros/Image/raw/master/img/1620454828(1).jpg" alt="1620454828(1)" style="zoom:50%;" />
 
@@ -479,10 +497,12 @@
 
 - #### Dijkstra算法（D）
 
-  - ##### 文字
+  <img src="https://gitee.com/wybros/Image/raw/master/img/下载 (1).gif" alt="下载 (1)" style="zoom:60%;" />
+
+  - ##### 文章
 
     - [Dijkstra算法原理](https://blog.csdn.net/yalishadaa/article/details/55827681)
-
+  
   - ##### 视频
   
     - [《Dijkstra算法讲解》（IR艾若机器人）](https://www.bilibili.com/video/BV1yT4y1T7Eb?p=2)
@@ -492,10 +512,14 @@
 
 - #### A星算法（A* /Astar）
 
-  - ##### 文字
+  <img src="https://gitee.com/wybros/Image/raw/master/img/下载.gif" alt="下载" style="zoom:60%;" />
 
+  
+
+  - ##### 文章
+  
     - [A*算法详解 一看就会 手把手推导 完整代码注释](https://mp.weixin.qq.com/s?__biz=MzU2OTMwNjE2MA==&mid=2247485317&idx=1&sn=4408d8f55a4f99544e3160982de1a3a3&chksm=fc81fadacbf673cc4c603d90174fe7b8561d8970b8c3b60a67516c1d4bb29dc06382bdbc4cb1&token=168864254&lang=zh_CN#rd)
-
+  
   - ##### 视频
   
     - [《A*算法讲解》by IR艾若机器人](https://www.bilibili.com/video/BV1yT4y1T7Eb?p=4)
@@ -505,7 +529,9 @@
 
 - #### D星算法（D* / Dynamic A）
 
-  - 文字
+  <img src="https://gitee.com/wybros/Image/raw/master/img/D星.gif" alt="D星" style="zoom:60%;" />
+  
+  - 文章
     - [D*算法详解 一看就会 手把手推导 完整代码注释](https://mp.weixin.qq.com/s?__biz=MzU2OTMwNjE2MA==&mid=2247485939&idx=1&sn=9a28d04edd52d0fdd1f30a860d8bead3&chksm=fc81f4accbf67dbabbf1ad5c8f944d7f35fff6999ab9cf35d1db21760282f41d2d254e9bfcfd&token=168864254&lang=zh_CN#rd)
   - 视频
 
@@ -513,7 +539,9 @@
 
 - #### RRT算法
 
-  - ##### 文字
+  <img src="https://gitee.com/wybros/Image/raw/master/img/RRT.gif" alt="RRT" style="zoom:60%;" />
+
+  - ##### 文章
 
     - [RRT算法详解 一看就会 手把手推导 完整代码注释](https://mp.weixin.qq.com/s?__biz=MzU2OTMwNjE2MA==&mid=2247486008&idx=1&sn=81529e2ac1cb365852a8cfa59150ac4c&chksm=fc81f767cbf67e71419c285052213ad2638d333180492d8475ed3e8716bd03ebdaa452cffbf5&token=168864254&lang=zh_CN#rd)
 
@@ -522,7 +550,7 @@
     - [《RRT算法讲解》（IR艾若机器人）](https://www.bilibili.com/video/BV1yT4y1T7Eb?p=5)
 
 - #### RRT*算法
-  - ##### 文字
+  - ##### 文章
 
     - [【规划】RRT*算法图解](https://blog.csdn.net/yuxuan20062007/article/details/88843690)
 
@@ -531,11 +559,14 @@
     - [《RRT*算法讲解》（IR艾若机器人）](https://www.bilibili.com/video/BV1yT4y1T7Eb?p=6)
   
 - #### Informed RRT*算法
-  - ##### 文字
-
-    - [Informed RRT*论文](https://arxiv.org/pdf/1404.2334v2.pdf) 
-  - [informed RRT*简述](https://zhuanlan.zhihu.com/p/162948527)
   
+<img src="https://gitee.com/wybros/Image/raw/master/img/INFORMEDRTRTXING.gif" style="zoom:60%;" />
+  
+  - ##### 文章
+  
+    - [Informed RRT*论文](https://arxiv.org/pdf/1404.2334v2.pdf) 
+    - [informed RRT*简述](https://zhuanlan.zhihu.com/p/162948527)
+    
   - ##### 视频
   
     - [《Informed RRT* 算法讲解》（IR艾若机器人）](https://www.bilibili.com/video/BV1yT4y1T7Eb?p=7)
@@ -546,7 +577,7 @@
 
 ### 激光slam
 
-- #### 教程
+- #### 文章
 
 - #### 视频
 
