@@ -129,11 +129,17 @@
 
 ## <span id="3">ROS相关软件安装和使用</span>
 
-### cartography
+### cartographer
 
-- #### [cartography安装](https://github.com/WLwind/cartographer_installation)
+- #### [cartographer安装](https://github.com/WLwind/cartographer_installation)
 
-- #### cartography使用
+- #### cartographer使用
+
+  - ##### [创客智造教程](https://www.ncnynl.com/archives/201810/2775.html)
+
+  - ##### [ROS(Kinetic和Melodic)下使用cartographer踩坑记录和部分谣言终结](https://blog.csdn.net/weixin_41349117/article/details/100551517)
+
+  - ##### [google-cartographer机器人SLAM建图](https://www.cnblogs.com/hiram-zhang/p/10415865.html)
 
 &nbsp;
 
@@ -415,7 +421,7 @@
 
 &nbsp;
 
-## <span id="10">ROS 人机界面开发教程</span>
+## <span id="10">ROS人机界面开发教程</span>
 
 ### [基于Qt5的ROS人机交互界面(蒋程扬老师)](https://github.com/chengyangkj/Ros_Qt5_Gui_App)
 
@@ -579,6 +585,18 @@
 - #### 树莓派
 
 - #### jetson nano
+
+### 传感器
+
+- #### IMU
+
+- #### 里程计
+
+- #### 摄像头
+
+
+
+
 
 &nbsp;
 
