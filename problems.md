@@ -1,10 +1,14 @@
-## ROS开发问题汇总
+## ROS问题汇总
 
 请使用 Ctrl + F 进行搜索
 
-https://www.jianshu.com/p/b52d3a71cbf3
 
-ROS init 
+
+[ROS rosdep init/update 百分百解决教程](https://mp.weixin.qq.com/s/mghnF4sesImHpg4ScZ-bRA)
+
+
+
+
 
 ## 安装
 
@@ -46,13 +50,13 @@ ERROR: cannot download default sources list from:
 
 A3:
 
-```
-
-```
+[ROS rosdep init/update 百分百解决教程](https://mp.weixin.qq.com/s/mghnF4sesImHpg4ScZ-bRA)
 
 &nbsp;
 
+[使用roslaunch导致节点输出不全，用output="screen"](https://blog.csdn.net/ethan_guo/article/details/80239584)
 
+[“  /usr/bin/env "python \r" ”:没有那个文件或目录](https://www.jianshu.com/p/d5eb279de997)
 
 ### [ROS主从机配置教程](https://blog.csdn.net/weixin_43707303/article/details/86496335)
 

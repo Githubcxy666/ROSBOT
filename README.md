@@ -40,6 +40,8 @@
 
 ### [ROS安卓APP](#11)
 
+### [ROS源码解读](#24)
+
 ### [ROS书籍推荐](#12)
 
 ### [Git使用教程](#13)
@@ -54,7 +56,7 @@
 
 ### [语音识别和控制](#18)
 
-### [深度学习](#23)
+### [人工智能](#23)
 
 ### [机器狗项目spotMicro](#19)
 
@@ -77,9 +79,9 @@
 - #### 虚拟机镜像安装教程（阿里云）
 
   - [ubuntu-16.04.7-desktop-amd64 镜像下载链接](http://mirrors.aliyun.com/ubuntu-releases/16.04/ubuntu-16.04.7-desktop-amd64.iso)
-- [ubuntu-18.04.5-desktop-amd64 镜像下载链接](http://mirrors.aliyun.com/ubuntu-releases/18.04/ubuntu-18.04.5-desktop-amd64.iso)
+  - [ubuntu-18.04.5-desktop-amd64 镜像下载链接](http://mirrors.aliyun.com/ubuntu-releases/18.04/ubuntu-18.04.5-desktop-amd64.iso)
   - [ubuntu-20.04.2.0-desktop-amd64 镜像下载链接](http://mirrors.aliyun.com/ubuntu-releases/20.04/ubuntu-20.04.2.0-desktop-amd64.iso)
-
+  
 - #### [ROS rosdep init/update 百分百解决教程](https://mp.weixin.qq.com/s/mghnF4sesImHpg4ScZ-bRA)
 
 - 
@@ -89,23 +91,27 @@
 
 - #### 	[notice版本安装教程（附带ros init失败解决办法）](http://www.autolabor.com.cn/book/ROSTutorials/chapter1/12-roskai-fa-gong-ju-an-zhuang/124-an-zhuang-ros.html)
 
+&nbsp;
+
 ### 树莓派ROS安装
 
 - #### 树莓派安装教程
 
 - 
-  #### 	Kinect版本安装教程
+  #### 	kinect版本安装教程
 
 - #### 	melodic版本安装教程
 
 - #### 	notice版本安装
+
+&nbsp;
 
 ### Jetson nano ROS安装
 
 - #### Jetson nano 安装教程
 
 - 
-  #### 	Kinect版本安装教程
+  #### 	kinect版本安装教程
 
 - #### 	melodic版本安装教程
 
@@ -142,6 +148,16 @@
   - ##### [ROS(Kinetic和Melodic)下使用cartographer踩坑记录和部分谣言终结](https://blog.csdn.net/weixin_41349117/article/details/100551517)
 
   - ##### [google-cartographer机器人SLAM建图](https://www.cnblogs.com/hiram-zhang/p/10415865.html)
+
+&nbsp;
+
+### teb_local_planner
+
+- #### [安装](https://blog.csdn.net/xiekaikaibing/article/details/80197164?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-1)
+
+- #### [使用](https://blog.csdn.net/xiekaikaibing/article/details/80197164)
+
+- #### [调参](https://blog.csdn.net/Fourier_Legend/article/details/89398485)
 
 &nbsp;
 
@@ -221,6 +237,10 @@
 ### robot_pose_ekf 安装教程
 
 `git clone https://github.com/ros-planning/robot_pose_ekf.git`
+
+使用
+
+[使用robot_pose_ekf对传感器信息融合](http://www.mamicode.com/info-detail-2140777.html)
 
 &nbsp;
 
@@ -353,7 +373,9 @@
 
 - #### [虚拟墙使用教程](https://blog.csdn.net/weixin_42005898/article/details/101757709)
 
-### [语音交互](#18)
+### 语音交互
+
+- #### [语音交互](#18)
 
 ### 使用自定义的全局路径规划算法
 
@@ -423,7 +445,7 @@
 
 ## <span id="8">ROS常用命令</span>
 
-#### [教程示例](http://www.autolabor.com.cn/book/ROSTutorials/di-2-zhang-ros-jia-gou-she-ji/24-chang-yong-ming-ling.html)
+#### [ROS常用命令详解](http://www.autolabor.com.cn/book/ROSTutorials/di-2-zhang-ros-jia-gou-she-ji/24-chang-yong-ming-ling.html)
 
 &nbsp;
 
@@ -442,6 +464,40 @@
 ### [基于Qt5的ROS人机交互界面(蒋程扬老师)](https://github.com/chengyangkj/Ros_Qt5_Gui_App)
 
 ![](https://gitee.com/wybros/Image/raw/master/img/人机界面演示001(1).jpg)
+
+&nbsp;
+
+
+
+
+
+## <span id="24">ROS源码解读</span>
+
+### [base_control功能包代码解析    视频](https://www.bilibili.com/video/BV19i4y1w7FQ?p=1)
+
+### [robot_vision功能包代码解析    视频](https://www.bilibili.com/video/BV19i4y1w7FQ?p=2)
+
+### [lidar文件夹和robot_navigation功能包代码解析    视频](https://www.bilibili.com/video/BV19i4y1w7FQ?p=3)
+
+### [robot_simulation功能包代码解析    视频](https://www.bilibili.com/video/BV19i4y1w7FQ?p=4)
+
+### [ROS Navigation之move_base完全详解  文章](https://haoqchen.site/2018/11/27/move-base-code/)
+
+### [ROS Navigation包的理解    文章](https://blog.csdn.net/qq91752728/article/details/79863677)
+
+### [ROS基础教程--CostMap_2D包的一些理解  文章](https://blog.csdn.net/jinking01/article/details/79455962)
+
+### [Costmap2D代价地图源码解读-静态层StaticLayer  文章](https://blog.csdn.net/Neo11111/article/details/104849757)
+
+### [Costmap2D代价地图源码解读-障碍层ObstacleLayer  文章](https://blog.csdn.net/Neo11111/article/details/104852657/)
+
+### [Costmap2D代价地图源码解读-膨胀层InflationLayer  文章](https://blog.csdn.net/Neo11111/article/details/104869048)
+
+### [Recovery Behavior恢复行为源码解读](https://blog.csdn.net/Neo11111/article/details/104884063)
+
+
+
+
 
 &nbsp;
 
@@ -560,8 +616,9 @@
   
 - #### Informed RRT*算法
   
+
 <img src="https://gitee.com/wybros/Image/raw/master/img/INFORMEDRTRTXING.gif" style="zoom:60%;" />
-  
+
   - ##### 文章
   
     - [Informed RRT*论文](https://arxiv.org/pdf/1404.2334v2.pdf) 
@@ -643,7 +700,31 @@
 
 &nbsp;
 
-## <span id="23">深度学习</span>
+## <span id="23">人工智能</span>
+
+### 李宏毅2020机器学习深度学习(完整版)国语
+
+#### [视频教程](https://www.bilibili.com/video/BV1JE411g7XF)
+
+### 《PyTorch深度学习实践》完结合集
+
+#### [视频教程](https://www.bilibili.com/video/BV1Y7411d7Ys)
+
+### 李宏毅2021春机器学习课程
+
+#### [视频教程](https://www.bilibili.com/video/BV1Wv411h7kN)
+
+### [中英字幕]吴恩达机器学习系列课程
+
+#### [视频教程](https://www.bilibili.com/video/BV164411b7dx)
+
+
+
+
+
+
+
+
 
 
 
@@ -654,6 +735,14 @@
 ## [<span id="19">机器狗项目spotMicro</span>](https://github.com/mike4192/spotMicro)
 
 <img src="https://gitee.com/wybros/Image/raw/master/img/SpotMicroAI_complete_1.jpg" alt="SpotMicroAI" style="zoom:50%;" />
+
+
+
+&nbsp;
+
+## ROS资料
+
+ROS 导航功能调优指南.pdf
 
 
 
@@ -677,6 +766,10 @@
 ### 传感器
 
 - #### IMU
+
+  - [《第三讲 AHRS姿态解算》](https://blog.csdn.net/superfly_csu/article/details/79128460)
+  - [《三分钟了解惯性导航系统、加速度计、陀螺仪的工作原理》](http://www.elecfans.com/emc_emi/639253.html)
+  - [《IMU原理及姿态融合算法详解》](https://blog.csdn.net/RoboChengzi/article/details/97616482)
 
 - #### 里程计
 
