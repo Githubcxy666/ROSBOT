@@ -64,6 +64,8 @@
 
 ### [编程资料](#21)
 
+### [机器人资料](#30)
+
 ### [贡献者](#22)
 
 &nbsp;
@@ -837,7 +839,7 @@ ROS 导航功能调优指南.pdf
 
 
 
-## 机器人资料
+## <span id="30">机器人</span>
 
 《规划算法》       [百度链接](https://pan.baidu.com/s/1BivWs5VhzrLkvr_gYqirRA)       提取码：ahph
 
