@@ -804,8 +804,8 @@ ROS 导航功能调优指南.pdf
 
 - #### 电子书
 
-  - 《21天学通c++_第7版》        
-  - 《C++ Primer Plus（第6版）中文版》
+  - 《21天学通c++_第7版》       [百度链接](https://pan.baidu.com/s/1o9aqy1OdmlV6CRmzh96dqg)       提取码：8rlp
+  - 《C++ Primer Plus（第6版）中文版》       [百度链接](https://pan.baidu.com/s/1BpCxX7ihn07CFygUwwvGFQ)       提取码：a5l8
 
 - #### 视频教程
 
@@ -815,8 +815,8 @@ ROS 导航功能调优指南.pdf
 
 - #### 电子书
 
-  - 《Python编程  从入门到实践》
-  - 《Python3.5从零开始学》
+  - 《Python编程  从入门到实践》       [百度链接](https://pan.baidu.com/s/1LyZBnCfFnkPrEfT9rfr9pg)       提取码：ye31
+  - 《Python3.5从零开始学》       [百度链接](https://pan.baidu.com/s/1OKL0RPayd1FkzJ5YSE8GkQ)       提取码：0uhc
 
 - #### 视频教程
 
@@ -826,12 +826,24 @@ ROS 导航功能调优指南.pdf
 
 - #### 电子书
 
-  - 《鸟哥的Linux私房菜-基础篇-第四版》
+  - 《鸟哥的Linux私房菜-基础篇-第四版》       [百度链接](https://pan.baidu.com/s/1XzlYK8YTOVYVkcwSKvTkmQ)       提取码：jgog
 
 - #### 视频教程
 
   - [黑马程序员linux入门到精通 （上）](https://www.bilibili.com/video/BV1nW411L7xm)
   - [黑马程序员linux入门到精通 （下）](https://www.bilibili.com/video/BV1DW411G7VB)
+
+&nbsp;
+
+
+
+## 机器人资料
+
+《规划算法》       [百度链接](https://pan.baidu.com/s/1BivWs5VhzrLkvr_gYqirRA)       提取码：ahph
+
+《概率机器人》       [百度链接](https://pan.baidu.com/s/1QDIlEAabtmqb5t0pucW3ww)       提取码：hc18
+
+
 
 &nbsp;
 
