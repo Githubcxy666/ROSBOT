@@ -639,7 +639,7 @@
 
 - #### [BoustrophedonCellularDecompositionPathPlanning](https://github.com/RicheyHuang/BoustrophedonCellularDecompositionPathPlanning)
 
-![img](https://github.com/RicheyHuang/BoustrophedonCellularDecompositionPathPlanning/raw/master/path_planning.gif)
+<img src="https://gitee.com/wybros/Image/raw/master/img/BCDPP1.gif" style="zoom:50%;" />
 
 - #### [CoveragePathPlanning](https://github.com/18alantom/CoveragePathPlanning)
 
