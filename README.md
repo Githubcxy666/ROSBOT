@@ -839,11 +839,25 @@ ROS 导航功能调优指南.pdf
 
 
 
-## <span id="30">机器人</span>
+## <span id="30">机器人资料</span>
 
 《规划算法》       [百度链接](https://pan.baidu.com/s/1BivWs5VhzrLkvr_gYqirRA)       提取码：ahph
 
 《概率机器人》       [百度链接](https://pan.baidu.com/s/1QDIlEAabtmqb5t0pucW3ww)       提取码：hc18
+
+《ROS机器人编程实践 by Morgan Quigley》       [百度链接](https://pan.baidu.com/s/123qjVbx-3bznEdvCeJZ_tw)       提取码：dngd
+
+《ROS机器人程序设计》       [百度链接](https://pan.baidu.com/s/1f91sv_w8BsOSeaJh2JFQzg)       提取码：ekcf
+
+《ROS机器人高效编程（原书第3版）高清可编辑》       [百度链接](https://pan.baidu.com/s/1m4Qtu5Pyn8USKCohHOC7gg)       提取码：br7v
+
+《ROS机器人开发实践》       [百度链接](https://pan.baidu.com/s/1_IAQtVorIdBhuYu7VfGGXA)       提取码：dsua
+
+《ROS进阶实例》       [百度链接](https://pan.baidu.com/s/1hc3CMvCl35v7iNppP6YgFw)       提取码：9f1b
+
+《掌握ROS机器人编程》       [百度链接](https://pan.baidu.com/s/1tvAreJMtmmuZQ-Udgi4l8w)       提取码：esdh
+
+《ROSWIKI官网学习资料》       [百度链接](https://pan.baidu.com/s/1WWqcTuDf4_KRAmWEly9eEQ)       提取码：27x8
 
 
 
