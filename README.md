@@ -615,7 +615,6 @@
     - [《RRT*算法讲解》（IR艾若机器人）](https://www.bilibili.com/video/BV1yT4y1T7Eb?p=6)
   
 - #### Informed RRT*算法
-  
 
 <img src="https://gitee.com/wybros/Image/raw/master/img/INFORMEDRTRTXING.gif" style="zoom:60%;" />
 
@@ -627,6 +626,24 @@
   - ##### 视频
   
     - [《Informed RRT* 算法讲解》（IR艾若机器人）](https://www.bilibili.com/video/BV1yT4y1T7Eb?p=7)
+
+&nbsp;
+
+### 全覆盖路径规划算法
+
+- #### [full_coverage_path_planner](https://github.com/nobleo/full_coverage_path_planner)
+
+<img src="https://github.com/nobleo/full_coverage_path_planner/raw/master/doc/fcpp_robot_0_5m_plus_tool_0_2m.png" alt="BSA" style="zoom:50%;" />
+
+
+
+- #### [BoustrophedonCellularDecompositionPathPlanning](https://github.com/RicheyHuang/BoustrophedonCellularDecompositionPathPlanning)
+
+![img](https://github.com/RicheyHuang/BoustrophedonCellularDecompositionPathPlanning/raw/master/path_planning.gif)
+
+- #### [CoveragePathPlanning](https://github.com/18alantom/CoveragePathPlanning)
+
+![ShapefileOverlay](https://github.com/18alantom/CoveragePathPlanning/raw/master/demo_media/kmstcsh.png)
 
 &nbsp;
 
