@@ -820,8 +820,8 @@
 
 - #### 电子书
 
-  - 《21天学通c++_第7版》       [百度链接](https://pan.baidu.com/s/1hKlncWmAM_1f4S6ijb-t-w)→提取码：4lpg&emsp;&emsp;&emsp;城通网盘→提取码：5385
-  - 《C++ Primer Plus（第6版）中文版》       [百度链接](https://pan.baidu.com/s/10VfkmYC6WsdmILWWZsDmSw)→提取码：5yiy&emsp;&emsp;&emsp;城通网盘→提取码：5385
+  - 《21天学通c++_第7版》       [百度链接](https://pan.baidu.com/s/1hKlncWmAM_1f4S6ijb-t-w)→提取码：4lpg&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495668812-40fd4d)→提取码：5385
+  - 《C++ Primer Plus（第6版）中文版》       [百度链接](https://pan.baidu.com/s/10VfkmYC6WsdmILWWZsDmSw)→提取码：5yiy&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495668975-be8826)→提取码：5385
 
 - #### 视频教程
 
@@ -831,9 +831,9 @@
 
 - #### 电子书
 
-  - 《Python编程  从入门到实践》       [百度链接](https://pan.baidu.com/s/1Qmn4ZNYWDu_ELIjw8C3b1w)→提取码：8vl8&emsp;&emsp;&emsp;城通网盘→提取码：5385
-  - 《Python3.5从零开始学》       [百度链接](https://pan.baidu.com/s/1gUJLCmWys0m5OY9Y08u68Q)→提取码：idit&emsp;&emsp;&emsp;城通网盘→提取码：5385
-  - 《byte-of-python-chinese-edition》       [百度链接](https://pan.baidu.com/s/1NbYNeNS5Ep9i22NlORUwdg)→提取码：1hyd&emsp;&emsp;&emsp;城通网盘→提取码：5385
+  - 《Python编程  从入门到实践》       [百度链接](https://pan.baidu.com/s/1Qmn4ZNYWDu_ELIjw8C3b1w)→提取码：8vl8&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669022-641a32)→提取码：5385
+  - 《Python3.5从零开始学》       [百度链接](https://pan.baidu.com/s/1gUJLCmWys0m5OY9Y08u68Q)→提取码：idit&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669061-afc504)→提取码：5385
+  - 《byte-of-python-chinese-edition》       [百度链接](https://pan.baidu.com/s/1NbYNeNS5Ep9i22NlORUwdg)→提取码：1hyd&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669014-61fbcd)→提取码：5385
 
 - #### 视频教程
 
@@ -843,7 +843,7 @@
 
 - #### 电子书
 
-  - 《鸟哥的Linux私房菜-基础篇-第四版》       [百度链接](https://pan.baidu.com/s/1k3y2yZwMXleHPB5hIYOqww)→提取码：t4dj&emsp;&emsp;&emsp;城通网盘→提取码：5385
+  - 《鸟哥的Linux私房菜-基础篇-第四版》       [百度链接](https://pan.baidu.com/s/1k3y2yZwMXleHPB5hIYOqww)→提取码：t4dj&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669010-a05bb7)→提取码：5385
 
 - #### 视频教程
 
@@ -856,9 +856,9 @@
 
 ## <span id="30">机器人资料</span>
 
-《规划算法》       [百度链接](https://pan.baidu.com/s/1wVHgzovGK1HoBVeBMgvr4w)       提取码：7s1h&emsp;&emsp;&emsp;城通网盘→提取码：5385
+《规划算法》       [百度链接](https://pan.baidu.com/s/1wVHgzovGK1HoBVeBMgvr4w)       提取码：7s1h&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669430-5a5862)→提取码：5385
 
-《概率机器人》       [百度链接](https://pan.baidu.com/s/1lYLBLZp-GIcoCyREYdDj6g)       提取码：89gd&emsp;&emsp;&emsp;城通网盘→提取码：5385
+《概率机器人》       [百度链接](https://pan.baidu.com/s/1lYLBLZp-GIcoCyREYdDj6g)       提取码：89gd&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669332-71e4e3)→提取码：5385
 
 
 
