@@ -641,7 +641,7 @@
 
 - #### [BoustrophedonCellularDecompositionPathPlanning](https://github.com/RicheyHuang/BoustrophedonCellularDecompositionPathPlanning)
 
-<img src="https://gitee.com/wybros/Image/raw/master/img/BCDPP1.gif" style="zoom:50%;" />
+<img src="README.assets/path_planning.gif" alt="img" style="zoom:50%;" />
 
 - #### [CoveragePathPlanning](https://github.com/18alantom/CoveragePathPlanning)
 
@@ -856,9 +856,9 @@
 
 ## <span id="30">机器人资料</span>
 
-《规划算法》       [百度链接](https://pan.baidu.com/s/1wVHgzovGK1HoBVeBMgvr4w)       提取码：7s1h&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669430-5a5862)→提取码：5385
+《规划算法》       [百度链接](https://pan.baidu.com/s/1wVHgzovGK1HoBVeBMgvr4w)→提取码：7s1h&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669430-5a5862)→提取码：5385
 
-《概率机器人》       [百度链接](https://pan.baidu.com/s/1lYLBLZp-GIcoCyREYdDj6g)       提取码：89gd&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669332-71e4e3)→提取码：5385
+《概率机器人》       [百度链接](https://pan.baidu.com/s/1lYLBLZp-GIcoCyREYdDj6g)→提取码：89gd&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669332-71e4e3)→提取码：5385
 
 
 
