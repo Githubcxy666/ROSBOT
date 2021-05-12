@@ -763,21 +763,21 @@
 
 《ROS 导航功能调优指南》       [百度链接](https://pan.baidu.com/s/1jotYxTdUu3IX1AEx_1itrg)→提取码：a70m&emsp;&emsp;&emsp; [城通网盘](https://089m.com/f/7753041-495669076-1fe528)→提取码：5385
 
-《launch文件整理》       [百度链接](https://pan.baidu.com/s/15_V-Kb0hreOv1JWKM_Z6Dg)      提取码：y9rz
+《launch文件整理》       [百度链接](https://pan.baidu.com/s/15_V-Kb0hreOv1JWKM_Z6Dg)→提取码：y9rz&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669066-559831)→提取码：5385
 
-《ROS机器人编程实践 by Morgan Quigley》       [百度链接](https://pan.baidu.com/s/1Ey1LoSstQ3t6xTKcM8GBSw)       提取码：d6fw
+《ROS机器人编程实践 by Morgan Quigley》       [百度链接](https://pan.baidu.com/s/1Ey1LoSstQ3t6xTKcM8GBSw)→提取码：d6fw&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669131-e919f3)→提取码：5385
 
-《ROS机器人程序设计》       [百度链接](https://pan.baidu.com/s/1COnXjeNjE8E3SGHo8b9wZA)       提取码：7rpr
+《ROS机器人程序设计》       [百度链接](https://pan.baidu.com/s/1COnXjeNjE8E3SGHo8b9wZA)→提取码：7rpr&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669162-a3f923)→提取码：5385
 
-《ROS机器人高效编程（原书第3版）高清可编辑》       [百度链接](https://pan.baidu.com/s/1atMR20JeKnM4-2Ts71_Hhg)       提取码：0iov
+《ROS机器人高效编程（原书第3版）高清可编辑》       [百度链接](https://pan.baidu.com/s/1atMR20JeKnM4-2Ts71_Hhg)→提取码：0iov&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669202-1f1d37)→提取码：5385
 
-《ROS机器人开发实践》       [百度链接](https://pan.baidu.com/s/1dOUpULuhln9Ox3-jV1qRjQ)       提取码：spl2
+《ROS机器人开发实践》       [百度链接](https://pan.baidu.com/s/1dOUpULuhln9Ox3-jV1qRjQ)→提取码：spl2&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669227-03d6f3)→提取码：5385
 
-《ROS进阶实例》       [百度链接](https://pan.baidu.com/s/1Mfy7386r6fuVvOgO8A1q9g)       提取码：s7b4
+《ROS进阶实例》       [百度链接](https://pan.baidu.com/s/1Mfy7386r6fuVvOgO8A1q9g)→提取码：s7b4&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669267-dd71fc)→提取码：5385
 
-《掌握ROS机器人编程》       [百度链接](https://pan.baidu.com/s/1t20R0CxbucI176ffnZ7s3A)       提取码：sghq
+《掌握ROS机器人编程》       [百度链接](https://pan.baidu.com/s/1t20R0CxbucI176ffnZ7s3A)→提取码：sghq&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669283-a93307)→提取码：5385
 
-《ROSWIKI官网学习资料》       [百度链接](https://pan.baidu.com/s/1BOkGGltau419-B43BGUIyw)       提取码：7i0r
+《ROSWIKI官网学习资料》       [百度链接](https://pan.baidu.com/s/1BOkGGltau419-B43BGUIyw)→提取码：7i0r&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669082-985c19)→提取码：5385
 
 &nbsp;
 
@@ -820,8 +820,8 @@
 
 - #### 电子书
 
-  - 《21天学通c++_第7版》       [百度链接](https://pan.baidu.com/s/1hKlncWmAM_1f4S6ijb-t-w)      提取码：4lpg
-  - 《C++ Primer Plus（第6版）中文版》       [百度链接](https://pan.baidu.com/s/10VfkmYC6WsdmILWWZsDmSw)      提取码：5yiy
+  - 《21天学通c++_第7版》       [百度链接](https://pan.baidu.com/s/1hKlncWmAM_1f4S6ijb-t-w)→提取码：4lpg&emsp;&emsp;&emsp;城通网盘→提取码：5385
+  - 《C++ Primer Plus（第6版）中文版》       [百度链接](https://pan.baidu.com/s/10VfkmYC6WsdmILWWZsDmSw)→提取码：5yiy&emsp;&emsp;&emsp;城通网盘→提取码：5385
 
 - #### 视频教程
 
@@ -831,9 +831,9 @@
 
 - #### 电子书
 
-  - 《Python编程  从入门到实践》       [百度链接](https://pan.baidu.com/s/1Qmn4ZNYWDu_ELIjw8C3b1w)       提取码：8vl8
-  - 《Python3.5从零开始学》       [百度链接](https://pan.baidu.com/s/1gUJLCmWys0m5OY9Y08u68Q)       提取码：idit
-  - 《byte-of-python-chinese-edition》       [百度链接](https://pan.baidu.com/s/1NbYNeNS5Ep9i22NlORUwdg)       提取码：1hyd
+  - 《Python编程  从入门到实践》       [百度链接](https://pan.baidu.com/s/1Qmn4ZNYWDu_ELIjw8C3b1w)→提取码：8vl8&emsp;&emsp;&emsp;城通网盘→提取码：5385
+  - 《Python3.5从零开始学》       [百度链接](https://pan.baidu.com/s/1gUJLCmWys0m5OY9Y08u68Q)→提取码：idit&emsp;&emsp;&emsp;城通网盘→提取码：5385
+  - 《byte-of-python-chinese-edition》       [百度链接](https://pan.baidu.com/s/1NbYNeNS5Ep9i22NlORUwdg)→提取码：1hyd&emsp;&emsp;&emsp;城通网盘→提取码：5385
 
 - #### 视频教程
 
@@ -843,7 +843,7 @@
 
 - #### 电子书
 
-  - 《鸟哥的Linux私房菜-基础篇-第四版》       [百度链接](https://pan.baidu.com/s/1k3y2yZwMXleHPB5hIYOqww)       提取码：t4dj
+  - 《鸟哥的Linux私房菜-基础篇-第四版》       [百度链接](https://pan.baidu.com/s/1k3y2yZwMXleHPB5hIYOqww)→提取码：t4dj&emsp;&emsp;&emsp;城通网盘→提取码：5385
 
 - #### 视频教程
 
@@ -856,9 +856,9 @@
 
 ## <span id="30">机器人资料</span>
 
-《规划算法》       [百度链接](https://pan.baidu.com/s/1wVHgzovGK1HoBVeBMgvr4w)       提取码：7s1h
+《规划算法》       [百度链接](https://pan.baidu.com/s/1wVHgzovGK1HoBVeBMgvr4w)       提取码：7s1h&emsp;&emsp;&emsp;城通网盘→提取码：5385
 
-《概率机器人》       [百度链接](https://pan.baidu.com/s/1lYLBLZp-GIcoCyREYdDj6g)       提取码：89gd
+《概率机器人》       [百度链接](https://pan.baidu.com/s/1lYLBLZp-GIcoCyREYdDj6g)       提取码：89gd&emsp;&emsp;&emsp;城通网盘→提取码：5385
 
 
 
