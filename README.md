@@ -417,6 +417,12 @@
 
 &nbsp;
 
+### 基于ROS的机械臂手眼标定
+
+- #### [基于ROS的机械臂手眼标定教程](https://blog.csdn.net/qq_27865227/article/details/113774717)
+
+&nbsp;
+
 ## <span id="7">ROS代码demo</span>
 
 ### Topic通信
