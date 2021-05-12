@@ -761,9 +761,23 @@
 
 ## ROS资料
 
-《ROS 导航功能调优指南》
+《ROS 导航功能调优指南》       [百度链接](https://pan.baidu.com/s/1jotYxTdUu3IX1AEx_1itrg)      提取码：a70m
 
-《launch文件整理》
+《launch文件整理》       [百度链接](https://pan.baidu.com/s/1uh1UgRP12SK3tp5Sp5C5HQ)      提取码：rj9y
+
+《ROS机器人编程实践 by Morgan Quigley》       [百度链接](https://pan.baidu.com/s/1Ey1LoSstQ3t6xTKcM8GBSw)       提取码：d6fw
+
+《ROS机器人程序设计》       [百度链接](https://pan.baidu.com/s/1COnXjeNjE8E3SGHo8b9wZA)       提取码：7rpr
+
+《ROS机器人高效编程（原书第3版）高清可编辑》       [百度链接](https://pan.baidu.com/s/1atMR20JeKnM4-2Ts71_Hhg)       提取码：0iov
+
+《ROS机器人开发实践》       [百度链接](https://pan.baidu.com/s/1dOUpULuhln9Ox3-jV1qRjQ)       提取码：spl2
+
+《ROS进阶实例》       [百度链接](https://pan.baidu.com/s/1Mfy7386r6fuVvOgO8A1q9g)       提取码：s7b4
+
+《掌握ROS机器人编程》       [百度链接](https://pan.baidu.com/s/1t20R0CxbucI176ffnZ7s3A)       提取码：sghq
+
+《ROSWIKI官网学习资料》       [百度链接](https://pan.baidu.com/s/1BOkGGltau419-B43BGUIyw)       提取码：7i0r
 
 &nbsp;
 
@@ -806,8 +820,8 @@
 
 - #### 电子书
 
-  - 《21天学通c++_第7版》       [百度链接](https://pan.baidu.com/s/1o9aqy1OdmlV6CRmzh96dqg)       提取码：8rlp
-  - 《C++ Primer Plus（第6版）中文版》       [百度链接](https://pan.baidu.com/s/1BpCxX7ihn07CFygUwwvGFQ)       提取码：a5l8
+  - 《21天学通c++_第7版》       [百度链接](https://pan.baidu.com/s/1hKlncWmAM_1f4S6ijb-t-w)      提取码：4lpg
+  - 《C++ Primer Plus（第6版）中文版》       [百度链接](https://pan.baidu.com/s/10VfkmYC6WsdmILWWZsDmSw)      提取码：5yiy
 
 - #### 视频教程
 
@@ -817,8 +831,9 @@
 
 - #### 电子书
 
-  - 《Python编程  从入门到实践》       [百度链接](https://pan.baidu.com/s/1LyZBnCfFnkPrEfT9rfr9pg)       提取码：ye31
-  - 《Python3.5从零开始学》       [百度链接](https://pan.baidu.com/s/1OKL0RPayd1FkzJ5YSE8GkQ)       提取码：0uhc
+  - 《Python编程  从入门到实践》       [百度链接](https://pan.baidu.com/s/1Qmn4ZNYWDu_ELIjw8C3b1w)       提取码：8vl8
+  - 《Python3.5从零开始学》       [百度链接](https://pan.baidu.com/s/1gUJLCmWys0m5OY9Y08u68Q)       提取码：idit
+  - 《byte-of-python-chinese-edition》       [百度链接](https://pan.baidu.com/s/1NbYNeNS5Ep9i22NlORUwdg)       提取码：1hyd
 
 - #### 视频教程
 
@@ -828,7 +843,7 @@
 
 - #### 电子书
 
-  - 《鸟哥的Linux私房菜-基础篇-第四版》       [百度链接](https://pan.baidu.com/s/1XzlYK8YTOVYVkcwSKvTkmQ)       提取码：jgog
+  - 《鸟哥的Linux私房菜-基础篇-第四版》       [百度链接](https://pan.baidu.com/s/1k3y2yZwMXleHPB5hIYOqww)       提取码：t4dj
 
 - #### 视频教程
 
@@ -841,23 +856,11 @@
 
 ## <span id="30">机器人资料</span>
 
-《规划算法》       [百度链接](https://pan.baidu.com/s/1BivWs5VhzrLkvr_gYqirRA)       提取码：ahph
+《规划算法》       [百度链接](https://pan.baidu.com/s/1wVHgzovGK1HoBVeBMgvr4w)       提取码：7s1h
 
-《概率机器人》       [百度链接](https://pan.baidu.com/s/1QDIlEAabtmqb5t0pucW3ww)       提取码：hc18
+《概率机器人》       [百度链接](https://pan.baidu.com/s/1lYLBLZp-GIcoCyREYdDj6g)       提取码：89gd
 
-《ROS机器人编程实践 by Morgan Quigley》       [百度链接](https://pan.baidu.com/s/123qjVbx-3bznEdvCeJZ_tw)       提取码：dngd
 
-《ROS机器人程序设计》       [百度链接](https://pan.baidu.com/s/1f91sv_w8BsOSeaJh2JFQzg)       提取码：ekcf
-
-《ROS机器人高效编程（原书第3版）高清可编辑》       [百度链接](https://pan.baidu.com/s/1m4Qtu5Pyn8USKCohHOC7gg)       提取码：br7v
-
-《ROS机器人开发实践》       [百度链接](https://pan.baidu.com/s/1_IAQtVorIdBhuYu7VfGGXA)       提取码：dsua
-
-《ROS进阶实例》       [百度链接](https://pan.baidu.com/s/1hc3CMvCl35v7iNppP6YgFw)       提取码：9f1b
-
-《掌握ROS机器人编程》       [百度链接](https://pan.baidu.com/s/1tvAreJMtmmuZQ-Udgi4l8w)       提取码：esdh
-
-《ROSWIKI官网学习资料》       [百度链接](https://pan.baidu.com/s/1WWqcTuDf4_KRAmWEly9eEQ)       提取码：27x8
 
 
 
