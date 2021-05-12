@@ -78,14 +78,14 @@
 
 ### 虚拟机ROS安装
 
+#### [ROS rosdep init/update 百分百解决教程（虚拟机，树莓派，jetson nano通用）](https://mp.weixin.qq.com/s/mghnF4sesImHpg4ScZ-bRA)
+
 - #### 虚拟机镜像安装教程（阿里云）
 
   - [ubuntu-16.04.7-desktop-amd64 镜像下载链接](http://mirrors.aliyun.com/ubuntu-releases/16.04/ubuntu-16.04.7-desktop-amd64.iso)
   - [ubuntu-18.04.5-desktop-amd64 镜像下载链接](http://mirrors.aliyun.com/ubuntu-releases/18.04/ubuntu-18.04.5-desktop-amd64.iso)
   - [ubuntu-20.04.2.0-desktop-amd64 镜像下载链接](http://mirrors.aliyun.com/ubuntu-releases/20.04/ubuntu-20.04.2.0-desktop-amd64.iso)
   
-- #### [ROS rosdep init/update 百分百解决教程](https://mp.weixin.qq.com/s/mghnF4sesImHpg4ScZ-bRA)
-
 - 
   #### 	    kinect版本安装教程
 
@@ -97,7 +97,7 @@
 
 ### 树莓派ROS安装
 
-- #### 树莓派安装教程
+- #### 树莓派镜像安装教程
 
 - 
   #### 	kinect版本安装教程
@@ -110,12 +110,19 @@
 
 ### Jetson nano ROS安装
 
-- #### Jetson nano 安装教程
+- #### [Jetson nano 镜像安装教程](https://blog.csdn.net/zbp_12138/article/details/106027817)
 
-- 
-  #### 	kinect版本安装教程
+  - [官方镜像下载链接](https://developer.nvidia.com/zh-cn/embedded/downloads)
 
-- #### 	melodic版本安装教程
+    进入到官方链接，点击如图所示黄色框部分。
+
+    ![image-20210512144724938](https://gitee.com/wybros/Image/raw/master/img/image-20210512144724938.png)
+
+&nbsp;
+
+- #### 	kinect版本安装教程
+  
+- #### 	[melodic版本安装教程](https://blog.csdn.net/destiny35456/article/details/106133841)
 
 - #### 	notice版本安装
 
@@ -459,7 +466,11 @@
 
 ## <span id="9">ROS文件详解</span>
 
-### [launch 文件详解](http://www.autolabor.com.cn/book/ROSTutorials/5/45-rosjie-dianguan-li-launch-wen-jian.html)
+### launch 文件详解
+
+[《launch 文件详解》](http://www.autolabor.com.cn/book/ROSTutorials/5/45-rosjie-dianguan-li-launch-wen-jian.html)
+
+《launch文件整理》       [百度链接](https://pan.baidu.com/s/15_V-Kb0hreOv1JWKM_Z6Dg)→提取码：y9rz&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669066-559831)→提取码：5385
 
 ### [CMakeLists.txt 文件详解](https://blog.csdn.net/weixin_42587961/article/details/86381730)
 
