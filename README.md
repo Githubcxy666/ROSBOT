@@ -278,6 +278,16 @@
 
 &nbsp;
 
+## <span id="5">ROS基础知识</span>
+
+- ### [占据栅格地图（Occupancy Grid Map）](https://zhuanlan.zhihu.com/p/21738718/)
+
+
+
+
+
+&nbsp;
+
 ## <span id="5">ROS教程</span>
 
 **以下排名不分先后**
@@ -427,6 +437,12 @@
 ### 基于ROS的机械臂手眼标定
 
 - #### [基于ROS的机械臂手眼标定教程](https://blog.csdn.net/qq_27865227/article/details/113774717)
+
+&nbsp;
+
+### 算法 rrt_exploration实现真实机器人自主探索建图
+
+- [教程1](https://blog.csdn.net/qq_42145185/article/details/82461072)
 
 &nbsp;
 
