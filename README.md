@@ -66,6 +66,8 @@
 
 ### [机器人资料](#30)
 
+### [《ROS移动机器人从0到1》专栏](#31)
+
 ### [贡献者](#22)
 
 &nbsp;
@@ -78,14 +80,14 @@
 
 ### 虚拟机ROS安装
 
-#### [ROS rosdep init/update 百分百解决教程（虚拟机，树莓派，jetson nano通用）](https://mp.weixin.qq.com/s/mghnF4sesImHpg4ScZ-bRA)
-
 - #### 虚拟机镜像安装教程（阿里云）
 
   - [ubuntu-16.04.7-desktop-amd64 镜像下载链接](http://mirrors.aliyun.com/ubuntu-releases/16.04/ubuntu-16.04.7-desktop-amd64.iso)
   - [ubuntu-18.04.5-desktop-amd64 镜像下载链接](http://mirrors.aliyun.com/ubuntu-releases/18.04/ubuntu-18.04.5-desktop-amd64.iso)
   - [ubuntu-20.04.2.0-desktop-amd64 镜像下载链接](http://mirrors.aliyun.com/ubuntu-releases/20.04/ubuntu-20.04.2.0-desktop-amd64.iso)
   
+- #### [ROS rosdep init/update 百分百解决教程](https://mp.weixin.qq.com/s/mghnF4sesImHpg4ScZ-bRA)
+
 - 
   #### 	    kinect版本安装教程
 
@@ -97,7 +99,7 @@
 
 ### 树莓派ROS安装
 
-- #### 树莓派镜像安装教程
+- #### 树莓派安装教程
 
 - 
   #### 	kinect版本安装教程
@@ -110,19 +112,12 @@
 
 ### Jetson nano ROS安装
 
-- #### [Jetson nano 镜像安装教程](https://blog.csdn.net/zbp_12138/article/details/106027817)
+- #### Jetson nano 安装教程
 
-  - [官方镜像下载链接](https://developer.nvidia.com/zh-cn/embedded/downloads)
+- 
+  #### 	kinect版本安装教程
 
-    进入到官方链接，点击如图所示黄色框部分。
-
-    ![image-20210512144724938](https://gitee.com/wybros/Image/raw/master/img/image-20210512144724938.png)
-
-&nbsp;
-
-- #### 	kinect版本安装教程
-  
-- #### 	[melodic版本安装教程](https://blog.csdn.net/destiny35456/article/details/106133841)
+- #### 	melodic版本安装教程
 
 - #### 	notice版本安装
 
@@ -278,16 +273,6 @@
 
 &nbsp;
 
-## <span id="5">ROS基础知识</span>
-
-- ### [占据栅格地图（Occupancy Grid Map）](https://zhuanlan.zhihu.com/p/21738718/)
-
-
-
-
-
-&nbsp;
-
 ## <span id="5">ROS教程</span>
 
 **以下排名不分先后**
@@ -434,18 +419,6 @@
 
 &nbsp;
 
-### 基于ROS的机械臂手眼标定
-
-- #### [基于ROS的机械臂手眼标定教程](https://blog.csdn.net/qq_27865227/article/details/113774717)
-
-&nbsp;
-
-### 算法 rrt_exploration实现真实机器人自主探索建图
-
-- [教程1](https://blog.csdn.net/qq_42145185/article/details/82461072)
-
-&nbsp;
-
 ## <span id="7">ROS代码demo</span>
 
 ### Topic通信
@@ -482,11 +455,7 @@
 
 ## <span id="9">ROS文件详解</span>
 
-### launch 文件详解
-
-[《launch 文件详解》](http://www.autolabor.com.cn/book/ROSTutorials/5/45-rosjie-dianguan-li-launch-wen-jian.html)
-
-《launch文件整理》       [百度链接](https://pan.baidu.com/s/15_V-Kb0hreOv1JWKM_Z6Dg)→提取码：y9rz&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669066-559831)→提取码：5385
+### [launch 文件详解](http://www.autolabor.com.cn/book/ROSTutorials/5/45-rosjie-dianguan-li-launch-wen-jian.html)
 
 ### [CMakeLists.txt 文件详解](https://blog.csdn.net/weixin_42587961/article/details/86381730)
 
@@ -674,7 +643,7 @@
 
 - #### [BoustrophedonCellularDecompositionPathPlanning](https://github.com/RicheyHuang/BoustrophedonCellularDecompositionPathPlanning)
 
-<img src="README.assets/path_planning.gif" alt="img" style="zoom:50%;" />
+<img src="https://gitee.com/wybros/Image/raw/master/img/BCDPP1.gif" style="zoom:50%;" />
 
 - #### [CoveragePathPlanning](https://github.com/18alantom/CoveragePathPlanning)
 
@@ -794,23 +763,9 @@
 
 ## ROS资料
 
-《ROS 导航功能调优指南》       [百度链接](https://pan.baidu.com/s/1jotYxTdUu3IX1AEx_1itrg)→提取码：a70m&emsp;&emsp;&emsp; [城通网盘](https://089m.com/f/7753041-495669076-1fe528)→提取码：5385
+《ROS 导航功能调优指南》
 
-《launch文件整理》       [百度链接](https://pan.baidu.com/s/15_V-Kb0hreOv1JWKM_Z6Dg)→提取码：y9rz&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669066-559831)→提取码：5385
-
-《ROS机器人编程实践 by Morgan Quigley》       [百度链接](https://pan.baidu.com/s/1Ey1LoSstQ3t6xTKcM8GBSw)→提取码：d6fw&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669131-e919f3)→提取码：5385
-
-《ROS机器人程序设计》       [百度链接](https://pan.baidu.com/s/1COnXjeNjE8E3SGHo8b9wZA)→提取码：7rpr&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669162-a3f923)→提取码：5385
-
-《ROS机器人高效编程（原书第3版）高清可编辑》       [百度链接](https://pan.baidu.com/s/1atMR20JeKnM4-2Ts71_Hhg)→提取码：0iov&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669202-1f1d37)→提取码：5385
-
-《ROS机器人开发实践》       [百度链接](https://pan.baidu.com/s/1dOUpULuhln9Ox3-jV1qRjQ)→提取码：spl2&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669227-03d6f3)→提取码：5385
-
-《ROS进阶实例》       [百度链接](https://pan.baidu.com/s/1Mfy7386r6fuVvOgO8A1q9g)→提取码：s7b4&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669267-dd71fc)→提取码：5385
-
-《掌握ROS机器人编程》       [百度链接](https://pan.baidu.com/s/1t20R0CxbucI176ffnZ7s3A)→提取码：sghq&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669283-a93307)→提取码：5385
-
-《ROSWIKI官网学习资料》       [百度链接](https://pan.baidu.com/s/1BOkGGltau419-B43BGUIyw)→提取码：7i0r&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669082-985c19)→提取码：5385
+《launch文件整理》
 
 &nbsp;
 
@@ -853,8 +808,8 @@
 
 - #### 电子书
 
-  - 《21天学通c++_第7版》       [百度链接](https://pan.baidu.com/s/1hKlncWmAM_1f4S6ijb-t-w)→提取码：4lpg&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495668812-40fd4d)→提取码：5385
-  - 《C++ Primer Plus（第6版）中文版》       [百度链接](https://pan.baidu.com/s/10VfkmYC6WsdmILWWZsDmSw)→提取码：5yiy&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495668975-be8826)→提取码：5385
+  - 《21天学通c++_第7版》       [百度链接](https://pan.baidu.com/s/1o9aqy1OdmlV6CRmzh96dqg)       提取码：8rlp
+  - 《C++ Primer Plus（第6版）中文版》       [百度链接](https://pan.baidu.com/s/1BpCxX7ihn07CFygUwwvGFQ)       提取码：a5l8
 
 - #### 视频教程
 
@@ -864,9 +819,8 @@
 
 - #### 电子书
 
-  - 《Python编程  从入门到实践》       [百度链接](https://pan.baidu.com/s/1Qmn4ZNYWDu_ELIjw8C3b1w)→提取码：8vl8&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669022-641a32)→提取码：5385
-  - 《Python3.5从零开始学》       [百度链接](https://pan.baidu.com/s/1gUJLCmWys0m5OY9Y08u68Q)→提取码：idit&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669061-afc504)→提取码：5385
-  - 《byte-of-python-chinese-edition》       [百度链接](https://pan.baidu.com/s/1NbYNeNS5Ep9i22NlORUwdg)→提取码：1hyd&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669014-61fbcd)→提取码：5385
+  - 《Python编程  从入门到实践》       [百度链接](https://pan.baidu.com/s/1LyZBnCfFnkPrEfT9rfr9pg)       提取码：ye31
+  - 《Python3.5从零开始学》       [百度链接](https://pan.baidu.com/s/1OKL0RPayd1FkzJ5YSE8GkQ)       提取码：0uhc
 
 - #### 视频教程
 
@@ -876,7 +830,7 @@
 
 - #### 电子书
 
-  - 《鸟哥的Linux私房菜-基础篇-第四版》       [百度链接](https://pan.baidu.com/s/1k3y2yZwMXleHPB5hIYOqww)→提取码：t4dj&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669010-a05bb7)→提取码：5385
+  - 《鸟哥的Linux私房菜-基础篇-第四版》       [百度链接](https://pan.baidu.com/s/1XzlYK8YTOVYVkcwSKvTkmQ)       提取码：jgog
 
 - #### 视频教程
 
@@ -889,11 +843,35 @@
 
 ## <span id="30">机器人资料</span>
 
-《规划算法》       [百度链接](https://pan.baidu.com/s/1wVHgzovGK1HoBVeBMgvr4w)→提取码：7s1h&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669430-5a5862)→提取码：5385
+《规划算法》       [百度链接](https://pan.baidu.com/s/1BivWs5VhzrLkvr_gYqirRA)       提取码：ahph
 
-《概率机器人》       [百度链接](https://pan.baidu.com/s/1lYLBLZp-GIcoCyREYdDj6g)→提取码：89gd&emsp;&emsp;&emsp;[城通网盘](https://089m.com/f/7753041-495669332-71e4e3)→提取码：5385
+《概率机器人》       [百度链接](https://pan.baidu.com/s/1QDIlEAabtmqb5t0pucW3ww)       提取码：hc18
+
+《ROS机器人编程实践 by Morgan Quigley》       [百度链接](https://pan.baidu.com/s/123qjVbx-3bznEdvCeJZ_tw)       提取码：dngd
+
+《ROS机器人程序设计》       [百度链接](https://pan.baidu.com/s/1f91sv_w8BsOSeaJh2JFQzg)       提取码：ekcf
+
+《ROS机器人高效编程（原书第3版）高清可编辑》       [百度链接](https://pan.baidu.com/s/1m4Qtu5Pyn8USKCohHOC7gg)       提取码：br7v
+
+《ROS机器人开发实践》       [百度链接](https://pan.baidu.com/s/1_IAQtVorIdBhuYu7VfGGXA)       提取码：dsua
+
+《ROS进阶实例》       [百度链接](https://pan.baidu.com/s/1hc3CMvCl35v7iNppP6YgFw)       提取码：9f1b
+
+《掌握ROS机器人编程》       [百度链接](https://pan.baidu.com/s/1tvAreJMtmmuZQ-Udgi4l8w)       提取码：esdh
+
+《ROSWIKI官网学习资料》       [百度链接](https://pan.baidu.com/s/1WWqcTuDf4_KRAmWEly9eEQ)       提取码：27x8
+
+&nbsp;
 
 
+
+## <span id="31">《ROS移动机器人从0到1》</span>
+
+[《ROS移动机器人从0到1》长篇小说第一章----《ROS移动小车整体框架详解》](https://mp.weixin.qq.com/s?__biz=MzU2OTMwNjE2MA==&mid=2247486101&idx=1&sn=7761de11d943f5991674724685782d05&chksm=fc81f7cacbf67edcb80fd31e0953550e253065369b75822d966cc3272cc3a548b615959ed8c2&token=1383442513&lang=zh_CN#rd)
+
+[《ROS移动机器人从0到1》长篇小说第二章----《STM32和Jetson nano通讯协议》](https://mp.weixin.qq.com/s?__biz=MzU2OTMwNjE2MA==&mid=2247486300&idx=1&sn=0312744dbe79c300d036e56278ac6239&chksm=fc81f603cbf67f1592046f13290e8eafec25ea0895fb7c2637de28f2782dc31dd104f0b50a39&token=1383442513&lang=zh_CN#rd)
+
+[《ROS移动机器人从0到1》长篇小说第三章----《mpu6050和ADC的配置以及数据读取》](https://mp.weixin.qq.com/s?__biz=MzU2OTMwNjE2MA==&mid=2247486361&idx=1&sn=79ea837c627fc91f930799dd3358cefc&chksm=fc81f6c6cbf67fd0893c9867747a90f20b82fe8f473c13cb2665eb5b230d39420fc7be3332ca&token=1383442513&lang=zh_CN#rd)
 
 
 
